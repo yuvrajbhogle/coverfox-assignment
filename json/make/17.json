@@ -1,0 +1,893 @@
+{
+    "success": true,
+    "errorCode": null,
+    "errorMessage": null,
+    "errorItems": [],
+    "data": {
+    "82": {
+    "id": 82,
+    "name": "Grande Punto",
+    "variants": [
+    {
+    "id": 16813,
+    "name": "Pure 1.2 Fire",
+    "cc": 1172,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 15805,
+    "name": "Fire Emotion",
+    "cc": 1172,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7232,
+    "name": "Emotion",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 815,
+    "name": "Active",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 817,
+    "name": "Multi-jet Dynamic",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 7247,
+    "name": "Evo Emotion Sport",
+    "cc": 1368,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7246,
+    "name": "Evo Active",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 825,
+    "name": "Sport",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 821,
+    "name": "Emotion",
+    "cc": 1172,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7245,
+    "name": "Evo Dynamic",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8415,
+    "name": "Evo Emotion",
+    "cc": 1368,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 820,
+    "name": "Emotion Pack",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 816,
+    "name": "Active",
+    "cc": 1172,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 824,
+    "name": "1.4 Dynamic",
+    "cc": 1368,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 818,
+    "name": "1.2 Dynamic",
+    "cc": 1172,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7244,
+    "name": "Evo Emotion",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 823,
+    "name": "Emotion",
+    "cc": 1368,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8412,
+    "name": "Emotion Pack",
+    "cc": 1368,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8413,
+    "name": "Evo Active",
+    "cc": 1172,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8414,
+    "name": "Evo Dynamic",
+    "cc": 1172,
+    "fuel_type": "PETROL"
+    }
+    ],
+    "is_popular": true
+    },
+    "83": {
+    "id": 83,
+    "name": "Linea",
+    "variants": [
+    {
+    "id": 16877,
+    "name": "1.3 Dynamic Multijet",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8418,
+    "name": "T-Jet Dynamic",
+    "cc": 1368,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 833,
+    "name": "Emotion",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8420,
+    "name": "Dynamic Pack",
+    "cc": 1368,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8417,
+    "name": "T-Jet Active",
+    "cc": 1368,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 831,
+    "name": "Dynamic",
+    "cc": 1368,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 834,
+    "name": "Emotion",
+    "cc": 1368,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 830,
+    "name": "Dynamic",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 836,
+    "name": "T-Jet",
+    "cc": 1368,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8421,
+    "name": "Emotion Pack",
+    "cc": 1368,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 1598,
+    "name": "T-Jet Emotion",
+    "cc": 1368,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 1597,
+    "name": "Emotion Pack",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8419,
+    "name": "Dynamic Pack",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 826,
+    "name": "Active",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 9055,
+    "name": "1.3L Multijet Elegante Limited Edition",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 827,
+    "name": "Active",
+    "cc": 1368,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8422,
+    "name": "T-Jet Plus",
+    "cc": 1368,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8416,
+    "name": "Fire Active",
+    "cc": 1368,
+    "fuel_type": "PETROL"
+    }
+    ],
+    "is_popular": true,
+    "desktop_image_path": "https://media.coverfox.com/motor_product/model/desktop/fiat_linea.png",
+    "mobile_image_path": "https://media.coverfox.com/motor_product/model/mobile/fiat_linea.png"
+    },
+    "84": {
+    "id": 84,
+    "name": "Palio",
+    "variants": [
+    {
+    "id": 8427,
+    "name": "Adventure Sport",
+    "cc": 1596,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7216,
+    "name": "GTX",
+    "cc": 1596,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 845,
+    "name": "Stile SD",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 848,
+    "name": "1.6 Sport",
+    "cc": 1596,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8429,
+    "name": "Stile SLX",
+    "cc": 1108,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8428,
+    "name": "Stile SLE",
+    "cc": 1108,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8430,
+    "name": "Stile Sport",
+    "cc": 1596,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 841,
+    "name": "ELX",
+    "cc": 1242,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 846,
+    "name": "Stile SL",
+    "cc": 1108,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8431,
+    "name": "Stile SDX",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 844,
+    "name": "S 10",
+    "cc": 1596,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 837,
+    "name": "EL",
+    "cc": 1242,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 847,
+    "name": "1.2 Sport",
+    "cc": 1242,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 843,
+    "name": "Stile SDE",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8426,
+    "name": "Adventure",
+    "cc": 1596,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8424,
+    "name": "Adventure",
+    "cc": 1910,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 9058,
+    "name": "1.6 Weekend SP",
+    "cc": 1596,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 9057,
+    "name": "1.6 Weekend",
+    "cc": 1596,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 840,
+    "name": "ELX",
+    "cc": 1910,
+    "fuel_type": "DIESEL"
+    }
+    ],
+    "is_popular": true
+    },
+    "2930": {
+    "id": 2930,
+    "name": "1100",
+    "variants": [
+    {
+    "id": 8399,
+    "name": "Sedan",
+    "cc": 1100,
+    "fuel_type": "PETROL"
+    }
+    ],
+    "is_popular": null
+    },
+    "2931": {
+    "id": 2931,
+    "name": "500",
+    "variants": [
+    {
+    "id": 9406,
+    "name": "Abarth 595 Competizione",
+    "cc": 1368,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8401,
+    "name": "Sports",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8400,
+    "name": "Lounge",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    }
+    ],
+    "is_popular": null
+    },
+    "2933": {
+    "id": 2933,
+    "name": "Alfa Romeo",
+    "variants": [
+    {
+    "id": 8403,
+    "name": "Standard",
+    "cc": 3000,
+    "fuel_type": "PETROL"
+    }
+    ],
+    "is_popular": null
+    },
+    "2934": {
+    "id": 2934,
+    "name": "Avventura",
+    "variants": [
+    {
+    "id": 8407,
+    "name": "Active Fire",
+    "cc": 1368,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8406,
+    "name": "Emotion",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8408,
+    "name": "Dynamic Fire",
+    "cc": 1368,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8404,
+    "name": "Active",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8405,
+    "name": "Dynamic",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    }
+    ],
+    "is_popular": true,
+    "desktop_image_path": "https://media.coverfox.com/motor_product/model/desktop/fiat_avventura.png",
+    "mobile_image_path": "https://media.coverfox.com/motor_product/model/mobile/fiat_avventura.png"
+    },
+    "2935": {
+    "id": 2935,
+    "name": "Bravo",
+    "variants": [
+    {
+    "id": 8409,
+    "name": "Sport",
+    "cc": 1910,
+    "fuel_type": "DIESEL"
+    }
+    ],
+    "is_popular": null
+    },
+    "2936": {
+    "id": 2936,
+    "name": "Cinquecento",
+    "variants": [
+    {
+    "id": 8410,
+    "name": "Lounge MJTD",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    }
+    ],
+    "is_popular": null
+    },
+    "2937": {
+    "id": 2937,
+    "name": "CV 57L",
+    "variants": [
+    {
+    "id": 8411,
+    "name": "Caravan",
+    "cc": 2198,
+    "fuel_type": "DIESEL"
+    }
+    ],
+    "is_popular": null
+    },
+    "2938": {
+    "id": 2938,
+    "name": "Marea",
+    "variants": [
+    {
+    "id": 8423,
+    "name": "100 SX",
+    "cc": 1596,
+    "fuel_type": "PETROL"
+    }
+    ],
+    "is_popular": null
+    },
+    "2939": {
+    "id": 2939,
+    "name": "Petra",
+    "variants": [
+    {
+    "id": 8435,
+    "name": "EL",
+    "cc": 1910,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8434,
+    "name": "1.6 ELX PS",
+    "cc": 1596,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8432,
+    "name": "1.2 ELX",
+    "cc": 1242,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8433,
+    "name": "EL",
+    "cc": 1592,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 9407,
+    "name": "1.9",
+    "cc": 1910,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8436,
+    "name": "ELX",
+    "cc": 1910,
+    "fuel_type": "DIESEL"
+    }
+    ],
+    "is_popular": true
+    },
+    "2940": {
+    "id": 2940,
+    "name": "Premier",
+    "variants": [
+    {
+    "id": 8437,
+    "name": "118NE",
+    "cc": 1180,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8438,
+    "name": "136D",
+    "cc": 1366,
+    "fuel_type": "PETROL"
+    }
+    ],
+    "is_popular": null
+    },
+    "2941": {
+    "id": 2941,
+    "name": "Siena",
+    "variants": [
+    {
+    "id": 8442,
+    "name": "1.6 ELX",
+    "cc": 1596,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 9067,
+    "name": "1.2 EX",
+    "cc": 1242,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8443,
+    "name": "Weekend ELX",
+    "cc": 1697,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 9071,
+    "name": "Weekend 1.7 ELX SP",
+    "cc": 1655,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8441,
+    "name": "1.6 EL",
+    "cc": 1596,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 9065,
+    "name": "1.2 EL PS",
+    "cc": 1242,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8439,
+    "name": "1.2 ELX",
+    "cc": 1242,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 9066,
+    "name": "1.2 ELX SP",
+    "cc": 1242,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8444,
+    "name": "Weekend ELX",
+    "cc": 1581,
+    "fuel_type": "PETROL"
+    }
+    ],
+    "is_popular": true
+    },
+    "2943": {
+    "id": 2943,
+    "name": "Uno",
+    "variants": [
+    {
+    "id": 9076,
+    "name": "AC",
+    "cc": 1242,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8451,
+    "name": "1.7 Trend",
+    "cc": 1697,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8450,
+    "name": "1.2 Trend",
+    "cc": 1242,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8446,
+    "name": "1",
+    "cc": 999,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8448,
+    "name": "EL",
+    "cc": 1242,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8449,
+    "name": "ELX",
+    "cc": 1242,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8447,
+    "name": "DLX",
+    "cc": 999,
+    "fuel_type": "PETROL"
+    }
+    ],
+    "is_popular": true
+    },
+    "3050": {
+    "id": 3050,
+    "name": "Punto",
+    "variants": [
+    {
+    "id": 17046,
+    "name": "Dynamic",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 14688,
+    "name": "Pure",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 15560,
+    "name": "Emotion",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 14861,
+    "name": "Active",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 14937,
+    "name": "Emotion",
+    "cc": 1368,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8975,
+    "name": "Evo Active",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    }
+    ],
+    "is_popular": true
+    },
+    "3051": {
+    "id": 3051,
+    "name": "Abarth Punto",
+    "variants": [
+    {
+    "id": 8979,
+    "name": "Evo 1.4 T-Jet",
+    "cc": 1368,
+    "fuel_type": "PETROL"
+    }
+    ],
+    "is_popular": null
+    },
+    "3056": {
+    "id": 3056,
+    "name": "Ducato Caravan",
+    "variants": [
+    {
+    "id": 9054,
+    "name": "Base",
+    "cc": 1984,
+    "fuel_type": "DIESEL"
+    }
+    ],
+    "is_popular": null
+    },
+    "3057": {
+    "id": 3057,
+    "name": "Linea Classic",
+    "variants": [
+    {
+    "id": 8787,
+    "name": "Multijet Plus",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 7238,
+    "name": "1.4",
+    "cc": 1368,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 9056,
+    "name": "1.3 Classic Plus",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 15306,
+    "name": "Plus Alloy Multijet",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8786,
+    "name": "Multijet",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    }
+    ],
+    "is_popular": true
+    },
+    "3058": {
+    "id": 3058,
+    "name": "Palio NV",
+    "variants": [
+    {
+    "id": 9060,
+    "name": "1.2 EL PS",
+    "cc": 1242,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 9061,
+    "name": "1.2 ELX",
+    "cc": 1242,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 9063,
+    "name": "1.6 Sport",
+    "cc": 1596,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 9059,
+    "name": "1.2 EL",
+    "cc": 1242,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 9062,
+    "name": "1.2 Sport",
+    "cc": 1242,
+    "fuel_type": "PETROL"
+    }
+    ],
+    "is_popular": true
+    },
+    "3086": {
+    "id": 3086,
+    "name": "Punto Avventura",
+    "variants": [
+    {
+    "id": 9447,
+    "name": "Abarth",
+    "cc": 1368,
+    "fuel_type": "PETROL"
+    }
+    ],
+    "is_popular": null
+    },
+    "3241": {
+    "id": 3241,
+    "name": "Punto EVO",
+    "variants": [
+    {
+    "id": 14760,
+    "name": "Dynamic",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 14724,
+    "name": "Emotion",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    }
+    ],
+    "is_popular": true
+    },
+    "3392": {
+    "id": 3392,
+    "name": "Urban Cross",
+    "variants": [
+    {
+    "id": 15326,
+    "name": "1.4 Emotion T-Jet",
+    "cc": 1368,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 15329,
+    "name": "1.3 Emotion Multijet",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 15328,
+    "name": "1.3 Dynamic Multijet",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 15327,
+    "name": "1.3 Active Multijet",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    }
+    ],
+    "is_popular": null
+    }
+    }
+    }

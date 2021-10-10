@@ -1,0 +1,3322 @@
+{
+    "success": true,
+    "errorCode": null,
+    "errorMessage": null,
+    "errorItems": [],
+    "data": {
+    "facts": {
+    "make": {
+    "insurer": [],
+    "message": "Honda"
+    },
+    "city": {
+    "insurer": [],
+    "message": "Vadodara"
+    }
+    },
+    "quote_parameters": {
+    "vqFromStage": "fl",
+    "isClaimedLastYear": "0",
+    "previousNCB": "25",
+    "isExpired": "false",
+    "know_ppd": "true",
+    "ncb_unknown": "true",
+    "pastPolicyExpiryDate": "17-10-2021",
+    "odPastPolicyExpiryDate": "17-10-2021",
+    "tpPastPolicyExpiryDate": "17-10-2021",
+    "newPolicyStartDate": "18-10-2021",
+    "isUsedVehicle": "0",
+    "isNewVehicle": "0",
+    "coverageType": "comprehensive",
+    "previous_coverage_type": "comprehensive",
+    "manufacturingDate": "01-10-2018",
+    "vehicleId": "924",
+    "isCNGFitted": "0",
+    "cngKitValue": "0",
+    "idv": "0",
+    "registrationNumber": "GJ,6,TYN,768",
+    "reg_number_bifurcated": "GJ,6,TYN,768",
+    "formatted_reg_number": "GJ6TYN768",
+    "spinny_reg_number": "",
+    "registrationDate": "01-10-2018",
+    "fastlane_success": "0",
+    "fastlane_model_changed": "false",
+    "fastlane_fueltype_changed": "false",
+    "fastlane_variant_changed": "false",
+    "addon_isDepreciationWaiver": "0",
+    "addon_isPAOpted": "0",
+    "addon_isInvoiceCover": "0",
+    "addon_is247RoadsideAssistance": "0",
+    "addon_isEngineProtector": "0",
+    "addon_isNcbProtection": "0",
+    "addon_addon_isIMT23": "0",
+    "addon_addon_isInconvenienceAllowance": "0",
+    "addon_isKeyReplacement": "0",
+    "addon_isCostOfConsumables": "0",
+    "addon_isDriveThroughProtected": "0",
+    "extra_isLegalLiability": "0",
+    "extra_paPassenger": "0",
+    "idvElectrical": "0",
+    "idvNonElectrical": "0",
+    "isNCBCertificate": "0",
+    "extra_isAntiTheftFitted": "0",
+    "extra_isMemberOfAutoAssociation": "0",
+    "extra_isTPPDDiscount": "0",
+    "extra_user_dob": "",
+    "expirySlot": "7",
+    "voluntaryDeductible": "0",
+    "previous_policy_insurer_name": "false",
+    "od_previous_policy_insurer_name": "false",
+    "tp_previous_policy_insurer_name": "false",
+    "third_party": null,
+    "payment_mode": "PAYMENT_GATEWAY",
+    "is_dealer_flow": false,
+    "newNCB": "0",
+    "registrationNumber[]": [
+    "GJ",
+    "6",
+    "TYN",
+    "768"
+    ],
+    "lastYearReqAddonsNotTaken": [],
+    "channel": "coverfox",
+    "is_recommended_idv_configured": false,
+    "category": "Private"
+    },
+    "rto_info": {
+    "rto_code": "GJ-6",
+    "rto_name": "Vadodara",
+    "rto_state": "GJ"
+    },
+    "quoteId": "f30272d6-7ebe-4962-b549-c87a007e8ecc",
+    "vehicle_make_id": 19,
+    "vehicle_make_name": "Honda",
+    "vehicle_model_id": 91,
+    "vehicle_model_name": "New City",
+    "vehicle_variant": "1.5 V AT",
+    "vehicle_cc": 1497,
+    "vehicle_fuel_type_map": {
+    "id": "PETROL",
+    "name": "Petrol",
+    "code": "petrol"
+    },
+    "is_man_year_from_fl": false,
+    "recommended_idv": 603993,
+    "is_renewal": false,
+    "timer_discount_availablility": {},
+    "available_insurers": [
+    {
+    "slug": "acko",
+    "name": "Acko General Insurance",
+    "is_active": true,
+    "is_multi_year_allowed_for_fourwheeler": false,
+    "coverage_type": "comprehensive",
+    "cashless_garages_available": false
+    },
+    {
+    "slug": "acko",
+    "name": "Acko General Insurance",
+    "is_active": true,
+    "is_multi_year_allowed_for_fourwheeler": false,
+    "coverage_type": "own_damage",
+    "cashless_garages_available": false
+    },
+    {
+    "slug": "acko",
+    "name": "Acko General Insurance",
+    "is_active": true,
+    "is_multi_year_allowed_for_fourwheeler": false,
+    "coverage_type": "third_party",
+    "cashless_garages_available": false
+    },
+    {
+    "slug": "bajaj-allianz",
+    "name": "Bajaj Allianz General Insurance",
+    "is_active": true,
+    "is_multi_year_allowed_for_fourwheeler": false,
+    "coverage_type": "comprehensive",
+    "cashless_garages_available": true,
+    "cashless_garages_link": "/car-insurance/bajaj-allianz-car-insurance/cashless-garages/"
+    },
+    {
+    "slug": "bajaj-allianz",
+    "name": "Bajaj Allianz General Insurance",
+    "is_active": true,
+    "is_multi_year_allowed_for_fourwheeler": false,
+    "coverage_type": "own_damage",
+    "cashless_garages_available": true,
+    "cashless_garages_link": "/car-insurance/bajaj-allianz-car-insurance/cashless-garages/"
+    },
+    {
+    "slug": "bajaj-allianz",
+    "name": "Bajaj Allianz General Insurance",
+    "is_active": true,
+    "is_multi_year_allowed_for_fourwheeler": false,
+    "coverage_type": "third_party",
+    "cashless_garages_available": false
+    },
+    {
+    "slug": "cholamandalam-ms",
+    "name": "Cholamandalam MS General Insurance",
+    "is_active": true,
+    "is_multi_year_allowed_for_fourwheeler": false,
+    "coverage_type": "comprehensive",
+    "cashless_garages_available": false
+    },
+    {
+    "slug": "edelweiss",
+    "name": "Edelweiss General Insurance Company Ltd",
+    "is_active": true,
+    "is_multi_year_allowed_for_fourwheeler": false,
+    "coverage_type": "comprehensive",
+    "cashless_garages_available": true,
+    "cashless_garages_link": "/car-insurance/edelweiss-car-insurance/cashless-garages/"
+    },
+    {
+    "slug": "edelweiss",
+    "name": "Edelweiss General Insurance Company Ltd",
+    "is_active": true,
+    "is_multi_year_allowed_for_fourwheeler": false,
+    "coverage_type": "own_damage",
+    "cashless_garages_available": true,
+    "cashless_garages_link": "/car-insurance/edelweiss-car-insurance/cashless-garages/"
+    },
+    {
+    "slug": "edelweiss",
+    "name": "Edelweiss General Insurance Company Ltd",
+    "is_active": true,
+    "is_multi_year_allowed_for_fourwheeler": false,
+    "coverage_type": "third_party",
+    "cashless_garages_available": false
+    },
+    {
+    "slug": "future-generali",
+    "name": "Future Generali General Insurance",
+    "is_active": true,
+    "is_multi_year_allowed_for_fourwheeler": false,
+    "coverage_type": "comprehensive",
+    "cashless_garages_available": false
+    },
+    {
+    "slug": "future-generali",
+    "name": "Future Generali General Insurance",
+    "is_active": true,
+    "is_multi_year_allowed_for_fourwheeler": false,
+    "coverage_type": "own_damage",
+    "cashless_garages_available": false
+    },
+    {
+    "slug": "future-generali",
+    "name": "Future Generali General Insurance",
+    "is_active": true,
+    "is_multi_year_allowed_for_fourwheeler": false,
+    "coverage_type": "third_party",
+    "cashless_garages_available": false
+    },
+    {
+    "slug": "go-digit",
+    "name": "Go Digit General Insurance",
+    "is_active": true,
+    "is_multi_year_allowed_for_fourwheeler": false,
+    "coverage_type": "comprehensive",
+    "cashless_garages_available": false
+    },
+    {
+    "slug": "go-digit",
+    "name": "Go Digit General Insurance",
+    "is_active": true,
+    "is_multi_year_allowed_for_fourwheeler": false,
+    "coverage_type": "own_damage",
+    "cashless_garages_available": false
+    },
+    {
+    "slug": "go-digit",
+    "name": "Go Digit General Insurance",
+    "is_active": true,
+    "is_multi_year_allowed_for_fourwheeler": false,
+    "coverage_type": "third_party",
+    "cashless_garages_available": false
+    },
+    {
+    "slug": "hdfc-ergo",
+    "name": "HDFC Ergo General Insurance",
+    "is_active": true,
+    "is_multi_year_allowed_for_fourwheeler": false,
+    "coverage_type": "comprehensive",
+    "cashless_garages_available": true,
+    "cashless_garages_link": "/car-insurance/hdfc-ergo-car-insurance/cashless-garages/"
+    },
+    {
+    "slug": "icici-lombard",
+    "name": "ICICI Lombard",
+    "is_active": true,
+    "is_multi_year_allowed_for_fourwheeler": false,
+    "coverage_type": "comprehensive",
+    "cashless_garages_available": false
+    },
+    {
+    "slug": "icici-lombard",
+    "name": "ICICI Lombard",
+    "is_active": true,
+    "is_multi_year_allowed_for_fourwheeler": false,
+    "coverage_type": "own_damage",
+    "cashless_garages_available": false
+    },
+    {
+    "slug": "icici-lombard",
+    "name": "ICICI Lombard",
+    "is_active": true,
+    "is_multi_year_allowed_for_fourwheeler": false,
+    "coverage_type": "third_party",
+    "cashless_garages_available": false
+    },
+    {
+    "slug": "iffco-tokio",
+    "name": "Iffco Tokio General Insurance",
+    "is_active": true,
+    "is_multi_year_allowed_for_fourwheeler": false,
+    "coverage_type": "comprehensive",
+    "cashless_garages_available": true,
+    "cashless_garages_link": "/car-insurance/iffco-tokio-car-insurance/cashless-garages/"
+    },
+    {
+    "slug": "iffco-tokio",
+    "name": "Iffco Tokio General Insurance",
+    "is_active": true,
+    "is_multi_year_allowed_for_fourwheeler": false,
+    "coverage_type": "own_damage",
+    "cashless_garages_available": true,
+    "cashless_garages_link": "/car-insurance/iffco-tokio-car-insurance/cashless-garages/"
+    },
+    {
+    "slug": "iffco-tokio",
+    "name": "Iffco Tokio General Insurance",
+    "is_active": true,
+    "is_multi_year_allowed_for_fourwheeler": false,
+    "coverage_type": "third_party",
+    "cashless_garages_available": false
+    },
+    {
+    "slug": "kotak-general",
+    "name": "Kotak General Insurance",
+    "is_active": true,
+    "is_multi_year_allowed_for_fourwheeler": false,
+    "coverage_type": "comprehensive",
+    "cashless_garages_available": true,
+    "cashless_garages_link": "/car-insurance/kotak-general-car-insurance/cashless-garages/"
+    },
+    {
+    "slug": "kotak-general",
+    "name": "Kotak General Insurance",
+    "is_active": true,
+    "is_multi_year_allowed_for_fourwheeler": false,
+    "coverage_type": "third_party",
+    "cashless_garages_available": false
+    },
+    {
+    "slug": "liberty-videocon",
+    "name": "Liberty General Insurance",
+    "is_active": true,
+    "is_multi_year_allowed_for_fourwheeler": false,
+    "coverage_type": "comprehensive",
+    "cashless_garages_available": true,
+    "cashless_garages_link": "/car-insurance/liberty-videocon-car-insurance/cashless-garages/"
+    },
+    {
+    "slug": "liberty-videocon",
+    "name": "Liberty General Insurance",
+    "is_active": true,
+    "is_multi_year_allowed_for_fourwheeler": false,
+    "coverage_type": "own_damage",
+    "cashless_garages_available": true,
+    "cashless_garages_link": "/car-insurance/liberty-videocon-car-insurance/cashless-garages/"
+    },
+    {
+    "slug": "magma-hdi",
+    "name": "Magma HDI General Insurance Company Ltd",
+    "is_active": true,
+    "is_multi_year_allowed_for_fourwheeler": false,
+    "coverage_type": "comprehensive",
+    "cashless_garages_available": true,
+    "cashless_garages_link": "/car-insurance/magma-hdi-car-insurance/cashless-garages/"
+    },
+    {
+    "slug": "national-insurance",
+    "name": "National Insurance",
+    "is_active": true,
+    "is_multi_year_allowed_for_fourwheeler": false,
+    "coverage_type": "comprehensive",
+    "cashless_garages_available": true,
+    "cashless_garages_link": "/car-insurance/national-insurance-car-insurance/cashless-garages/"
+    },
+    {
+    "slug": "national-insurance",
+    "name": "National Insurance",
+    "is_active": true,
+    "is_multi_year_allowed_for_fourwheeler": false,
+    "coverage_type": "own_damage",
+    "cashless_garages_available": true,
+    "cashless_garages_link": "/car-insurance/national-insurance-car-insurance/cashless-garages/"
+    },
+    {
+    "slug": "national-insurance",
+    "name": "National Insurance",
+    "is_active": true,
+    "is_multi_year_allowed_for_fourwheeler": false,
+    "coverage_type": "third_party",
+    "cashless_garages_available": false
+    },
+    {
+    "slug": "navi",
+    "name": "Navi General Insurance",
+    "is_active": true,
+    "is_multi_year_allowed_for_fourwheeler": false,
+    "coverage_type": "third_party",
+    "cashless_garages_available": false
+    },
+    {
+    "slug": "new-india",
+    "name": "New India Assurance",
+    "is_active": true,
+    "is_multi_year_allowed_for_fourwheeler": false,
+    "coverage_type": "comprehensive",
+    "cashless_garages_available": true,
+    "cashless_garages_link": "/car-insurance/new-india-car-insurance/cashless-garages/"
+    },
+    {
+    "slug": "new-india",
+    "name": "New India Assurance",
+    "is_active": true,
+    "is_multi_year_allowed_for_fourwheeler": false,
+    "coverage_type": "own_damage",
+    "cashless_garages_available": true,
+    "cashless_garages_link": "/car-insurance/new-india-car-insurance/cashless-garages/"
+    },
+    {
+    "slug": "new-india",
+    "name": "New India Assurance",
+    "is_active": true,
+    "is_multi_year_allowed_for_fourwheeler": false,
+    "coverage_type": "third_party",
+    "cashless_garages_available": false
+    },
+    {
+    "slug": "oriental",
+    "name": "Oriental Insurance Company Ltd.",
+    "is_active": true,
+    "is_multi_year_allowed_for_fourwheeler": false,
+    "coverage_type": "comprehensive",
+    "cashless_garages_available": true,
+    "cashless_garages_link": "/car-insurance/oriental-car-insurance/cashless-garages/"
+    },
+    {
+    "slug": "oriental",
+    "name": "Oriental Insurance Company Ltd.",
+    "is_active": true,
+    "is_multi_year_allowed_for_fourwheeler": false,
+    "coverage_type": "own_damage",
+    "cashless_garages_available": true,
+    "cashless_garages_link": "/car-insurance/oriental-car-insurance/cashless-garages/"
+    },
+    {
+    "slug": "oriental",
+    "name": "Oriental Insurance Company Ltd.",
+    "is_active": true,
+    "is_multi_year_allowed_for_fourwheeler": false,
+    "coverage_type": "third_party",
+    "cashless_garages_available": false
+    },
+    {
+    "slug": "reliance",
+    "name": "Reliance General Insurance",
+    "is_active": true,
+    "is_multi_year_allowed_for_fourwheeler": false,
+    "coverage_type": "comprehensive",
+    "cashless_garages_available": true,
+    "cashless_garages_link": "/car-insurance/reliance-car-insurance/cashless-garages/"
+    },
+    {
+    "slug": "reliance",
+    "name": "Reliance General Insurance",
+    "is_active": true,
+    "is_multi_year_allowed_for_fourwheeler": false,
+    "coverage_type": "own_damage",
+    "cashless_garages_available": true,
+    "cashless_garages_link": "/car-insurance/reliance-car-insurance/cashless-garages/"
+    },
+    {
+    "slug": "reliance",
+    "name": "Reliance General Insurance",
+    "is_active": true,
+    "is_multi_year_allowed_for_fourwheeler": false,
+    "coverage_type": "third_party",
+    "cashless_garages_available": false
+    },
+    {
+    "slug": "royal-sundaram",
+    "name": "Royal Sundaram General Insurance",
+    "is_active": true,
+    "is_multi_year_allowed_for_fourwheeler": false,
+    "coverage_type": "comprehensive",
+    "cashless_garages_available": false
+    },
+    {
+    "slug": "sbi",
+    "name": "SBI General Insurance",
+    "is_active": true,
+    "is_multi_year_allowed_for_fourwheeler": false,
+    "coverage_type": "comprehensive",
+    "cashless_garages_available": false
+    },
+    {
+    "slug": "sbi",
+    "name": "SBI General Insurance",
+    "is_active": true,
+    "is_multi_year_allowed_for_fourwheeler": false,
+    "coverage_type": "own_damage",
+    "cashless_garages_available": false
+    },
+    {
+    "slug": "sbi",
+    "name": "SBI General Insurance",
+    "is_active": true,
+    "is_multi_year_allowed_for_fourwheeler": false,
+    "coverage_type": "third_party",
+    "cashless_garages_available": false
+    },
+    {
+    "slug": "shriram",
+    "name": "Shriram General Insurance",
+    "is_active": true,
+    "is_multi_year_allowed_for_fourwheeler": false,
+    "coverage_type": "comprehensive",
+    "cashless_garages_available": true,
+    "cashless_garages_link": "/car-insurance/shriram-car-insurance/cashless-garages/"
+    },
+    {
+    "slug": "shriram",
+    "name": "Shriram General Insurance",
+    "is_active": true,
+    "is_multi_year_allowed_for_fourwheeler": false,
+    "coverage_type": "own_damage",
+    "cashless_garages_available": true,
+    "cashless_garages_link": "/car-insurance/shriram-car-insurance/cashless-garages/"
+    },
+    {
+    "slug": "united-india",
+    "name": "United India Insurance",
+    "is_active": true,
+    "is_multi_year_allowed_for_fourwheeler": false,
+    "coverage_type": "comprehensive",
+    "cashless_garages_available": true,
+    "cashless_garages_link": "/car-insurance/united-india-car-insurance/cashless-garages/"
+    },
+    {
+    "slug": "united-india",
+    "name": "United India Insurance",
+    "is_active": true,
+    "is_multi_year_allowed_for_fourwheeler": false,
+    "coverage_type": "own_damage",
+    "cashless_garages_available": true,
+    "cashless_garages_link": "/car-insurance/united-india-car-insurance/cashless-garages/"
+    },
+    {
+    "slug": "united-india",
+    "name": "United India Insurance",
+    "is_active": true,
+    "is_multi_year_allowed_for_fourwheeler": false,
+    "coverage_type": "third_party",
+    "cashless_garages_available": false
+    },
+    {
+    "slug": "universal-sompo",
+    "name": "Universal Sompo General Insurance",
+    "is_active": true,
+    "is_multi_year_allowed_for_fourwheeler": false,
+    "coverage_type": "comprehensive",
+    "cashless_garages_available": true,
+    "cashless_garages_link": "/car-insurance/universal-sompo-car-insurance/cashless-garages/"
+    },
+    {
+    "slug": "universal-sompo",
+    "name": "Universal Sompo General Insurance",
+    "is_active": true,
+    "is_multi_year_allowed_for_fourwheeler": false,
+    "coverage_type": "third_party",
+    "cashless_garages_available": false
+    }
+    ],
+    "flexi_discount_insurers": [
+    "bharti-axa",
+    "new-india",
+    "oriental",
+    "future-generali",
+    "future-generali",
+    "oriental"
+    ],
+    "last_year_zero_dep_required_insurers": [
+    "hdfc-ergo",
+    "dhfl",
+    "national-insurance",
+    "liberty-videocon",
+    "shriram",
+    "royal-sundaram"
+    ],
+    "premiums": [
+    {
+    "insurerId": 57,
+    "insurerName": "Edelweiss General Insurance Company Ltd",
+    "insurerSlug": "edelweiss",
+    "planType": "FW-OD-TERM1",
+    "tenure": "1",
+    "isInstantPolicy": false,
+    "minIDV": 440166,
+    "maxIDV": 674921,
+    "calculatedAtIDV": 440166,
+    "serviceTaxRate": 0.18,
+    "appliedDiscountRate": -0.7,
+    "premiumBreakup": {
+    "serviceTax": 1414,
+    "basicCovers": [
+    {
+    "premium": 14046,
+    "id": "basicOd",
+    "default": 1,
+    "name": "Basic OD Premium"
+    }
+    ],
+    "addonCovers": [
+    {
+    "premium": 2905.1,
+    "id": "isDepreciationWaiver",
+    "default": 0,
+    "name": "Zero Dep"
+    },
+    {
+    "premium": 110,
+    "id": "is247RoadsideAssistance",
+    "default": 0,
+    "name": "Roadside Assistance"
+    },
+    {
+    "premium": 968.37,
+    "id": "isEngineProtector",
+    "default": 0,
+    "name": "Engine Protector"
+    },
+    {
+    "premium": 328.69,
+    "id": "isNcbProtection",
+    "default": 0,
+    "name": "NCB Protection"
+    },
+    {
+    "premium": 211.28,
+    "id": "isKeyReplacement",
+    "default": 0,
+    "name": "Key and Lock Replacement"
+    },
+    {
+    "premium": 594,
+    "id": "isCostOfConsumables",
+    "default": 0,
+    "name": "Consumable Cover"
+    }
+    ],
+    "discounts": [
+    {
+    "premium": -1475,
+    "id": "ncb",
+    "default": 1,
+    "name": "No Claim Bonus"
+    },
+    {
+    "id": "odDiscount",
+    "default": 1,
+    "premium": -9832,
+    "name": "OD Discount"
+    }
+    ],
+    "specialDiscounts": [],
+    "paPassengerAmounts": {
+    "0": 0,
+    "10000": 25,
+    "50000": 125,
+    "100000": 250,
+    "200000": 500,
+    "type": "dynamic"
+    },
+    "addonDiscounts": [],
+    "tpDiscounts": {
+    "limitedTPPDDiscount": 0
+    },
+    "dependentCovers": {
+    "type": "dynamic"
+    },
+    "standAlonePaCover": [
+    {
+    "policy_start_date": null,
+    "policy_end_date": null,
+    "allow_to_display_insurer_title": true,
+    "insurer_slug": "liberty-videocon",
+    "insurer_title": "Liberty General Insurance",
+    "premium": 375,
+    "total_premium": 442.5,
+    "tenure": 1,
+    "sales_channel_slug": "coverfox",
+    "id": "standalonePa",
+    "default": 0,
+    "make_name": null,
+    "make_id": null,
+    "vehicle_type": "fourwheeler",
+    "vehicle_category": "Private",
+    "type": "standalonepa",
+    "main_policy_insurer_slug": "edelweiss"
+    }
+    ]
+    },
+    "coverageType": "own_damage",
+    "lcc": 5,
+    "isStandalonePaApplied": true,
+    "isExpressClaimAvailable": false,
+    "NCB": 35,
+    "from_cache": false,
+    "is_preferred": true,
+    "vehicle_age": 3.0493150684931507
+    },
+    {
+    "insurerId": 10,
+    "insurerSlug": "new-india",
+    "insurerName": "New India Assurance",
+    "planType": "FW-OD-TERM1",
+    "coverageType": "own_damage",
+    "tenure": 1,
+    "isInstantPolicy": true,
+    "minIDV": 522720,
+    "maxIDV": 667920,
+    "calculatedAtIDV": 580800,
+    "serviceTaxRate": 0.18,
+    "appliedDiscountRate": 60,
+    "isFlexiDiscountAvailable": true,
+    "premiumBreakup": {
+    "serviceTax": 867,
+    "basicCovers": [
+    {
+    "id": "basicOd",
+    "default": 1,
+    "premium": 18533.33,
+    "name": "Basic OD Premium"
+    }
+    ],
+    "addonCovers": [],
+    "discounts": [
+    {
+    "premium": -2594.67,
+    "id": "ncb",
+    "default": 1,
+    "name": "No Claim Bonus"
+    },
+    {
+    "id": "odDiscount",
+    "default": 1,
+    "premium": -11120,
+    "name": "OD Discount"
+    }
+    ],
+    "specialDiscounts": [],
+    "dependentCovers": {
+    "isCostOfConsumables": [
+    "isDepreciationWaiver"
+    ],
+    "isEngineProtector": [
+    "isDepreciationWaiver"
+    ],
+    "isNcbProtection": [
+    "isDepreciationWaiver"
+    ],
+    "type": "dynamic"
+    },
+    "paPassengerAmounts": {},
+    "standAlonePaCover": [
+    {
+    "policy_start_date": null,
+    "policy_end_date": null,
+    "allow_to_display_insurer_title": true,
+    "insurer_slug": "liberty-videocon",
+    "insurer_title": "Liberty General Insurance",
+    "premium": 375,
+    "total_premium": 442.5,
+    "tenure": 1,
+    "sales_channel_slug": "coverfox",
+    "id": "standalonePa",
+    "default": 0,
+    "make_name": null,
+    "make_id": null,
+    "vehicle_type": "fourwheeler",
+    "vehicle_category": "Private",
+    "type": "standalonepa",
+    "main_policy_insurer_slug": "new-india"
+    }
+    ]
+    },
+    "isStandalonePaApplied": true,
+    "isExpressClaimAvailable": true,
+    "NCB": 35,
+    "from_cache": false,
+    "is_preferred": true,
+    "vehicle_age": 3.047227926078029
+    },
+    {
+    "insurerId": 4,
+    "insurerSlug": "iffco-tokio",
+    "insurerName": "Iffco Tokio General Insurance",
+    "tenure": 1,
+    "planType": "FW-OD-TERM1",
+    "isInstantPolicy": true,
+    "minIDV": 737800,
+    "maxIDV": 1041600,
+    "calculatedAtIDV": 737800,
+    "serviceTaxRate": 0.18,
+    "premiumBreakup": {
+    "serviceTax": 3455.6,
+    "basicCovers": [
+    {
+    "id": "basicOd",
+    "default": 1,
+    "premium": 23543.2,
+    "name": "Basic OD Premium"
+    },
+    {
+    "id": "basicTp",
+    "default": 1,
+    "premium": 0,
+    "name": "Basic TP Premium"
+    }
+    ],
+    "addonCovers": [
+    {
+    "id": "isCostOfConsumables",
+    "default": 0,
+    "premium": 1189.7,
+    "name": "Consumable Cover"
+    },
+    {
+    "id": "isDepreciationWaiver",
+    "default": 0,
+    "premium": 9591.4,
+    "name": "Zero Dep"
+    },
+    {
+    "id": "is247RoadsideAssistance",
+    "default": 1,
+    "premium": 0,
+    "name": "Roadside Assistance"
+    }
+    ],
+    "discounts": [
+    {
+    "id": "odDiscount",
+    "default": 1,
+    "premium": -10594.44,
+    "name": "OD Discount"
+    },
+    {
+    "id": "ncb",
+    "default": 1,
+    "premium": -4532.07,
+    "name": "No Claim Bonus"
+    }
+    ],
+    "specialDiscounts": [],
+    "dependentCovers": {
+    "isCostOfConsumables": [
+    "isDepreciationWaiver"
+    ],
+    "isInvoiceCover": [
+    "isDepreciationWaiver"
+    ],
+    "isNcbProtection": [
+    "isDepreciationWaiver"
+    ],
+    "type": "dynamic"
+    },
+    "paPassengerAmounts": {},
+    "standAlonePaCover": [
+    {
+    "policy_start_date": null,
+    "policy_end_date": null,
+    "allow_to_display_insurer_title": true,
+    "insurer_slug": "liberty-videocon",
+    "insurer_title": "Liberty General Insurance",
+    "premium": 375,
+    "total_premium": 442.5,
+    "tenure": 1,
+    "sales_channel_slug": "coverfox",
+    "id": "standalonePa",
+    "default": 0,
+    "make_name": null,
+    "make_id": null,
+    "vehicle_type": "fourwheeler",
+    "vehicle_category": "Private",
+    "type": "standalonepa",
+    "main_policy_insurer_slug": "iffco-tokio"
+    }
+    ]
+    },
+    "coverageType": "own_damage",
+    "isStandalonePaApplied": true,
+    "isExpressClaimAvailable": false,
+    "NCB": 35,
+    "from_cache": false,
+    "is_preferred": true,
+    "vehicle_age": 3.0465444191188045
+    },
+    {
+    "insurerId": 57,
+    "insurerName": "Edelweiss General Insurance Company Ltd",
+    "insurerSlug": "edelweiss",
+    "planType": "FW-TERM1",
+    "tenure": "1",
+    "isInstantPolicy": false,
+    "minIDV": 440166,
+    "maxIDV": 674921,
+    "calculatedAtIDV": 440166,
+    "serviceTaxRate": 0.18,
+    "appliedDiscountRate": -0.7,
+    "premiumBreakup": {
+    "serviceTax": 2003,
+    "basicCovers": [
+    {
+    "premium": 14046,
+    "id": "basicOd",
+    "default": 1,
+    "name": "Basic OD Premium"
+    },
+    {
+    "premium": 3221,
+    "id": "basicTp",
+    "default": 1,
+    "name": "Basic TP Premium"
+    },
+    {
+    "premium": 50,
+    "id": "legalLiabilityDriver",
+    "default": 0,
+    "name": "LL Driver"
+    }
+    ],
+    "addonCovers": [
+    {
+    "premium": 2905.1,
+    "id": "isDepreciationWaiver",
+    "default": 0,
+    "name": "Zero Dep"
+    },
+    {
+    "premium": 110,
+    "id": "is247RoadsideAssistance",
+    "default": 0,
+    "name": "Roadside Assistance"
+    },
+    {
+    "premium": 968.37,
+    "id": "isEngineProtector",
+    "default": 0,
+    "name": "Engine Protector"
+    },
+    {
+    "premium": 328.69,
+    "id": "isNcbProtection",
+    "default": 0,
+    "name": "NCB Protection"
+    },
+    {
+    "premium": 211.28,
+    "id": "isKeyReplacement",
+    "default": 0,
+    "name": "Key and Lock Replacement"
+    },
+    {
+    "premium": 594,
+    "id": "isCostOfConsumables",
+    "default": 0,
+    "name": "Consumable Cover"
+    }
+    ],
+    "discounts": [
+    {
+    "premium": -1475,
+    "id": "ncb",
+    "default": 1,
+    "name": "No Claim Bonus"
+    },
+    {
+    "id": "odDiscount",
+    "default": 1,
+    "premium": -9832,
+    "name": "OD Discount"
+    }
+    ],
+    "specialDiscounts": [],
+    "paPassengerAmounts": {
+    "0": 0,
+    "10000": 25,
+    "50000": 125,
+    "100000": 250,
+    "200000": 500,
+    "type": "dynamic"
+    },
+    "addonDiscounts": [],
+    "tpDiscounts": {
+    "limitedTPPDDiscount": 0
+    },
+    "dependentCovers": {
+    "type": "dynamic"
+    },
+    "standAlonePaCover": [
+    {
+    "policy_start_date": null,
+    "policy_end_date": null,
+    "allow_to_display_insurer_title": true,
+    "insurer_slug": "liberty-videocon",
+    "insurer_title": "Liberty General Insurance",
+    "premium": 375,
+    "total_premium": 442.5,
+    "tenure": 1,
+    "sales_channel_slug": "coverfox",
+    "id": "standalonePa",
+    "default": 0,
+    "make_name": null,
+    "make_id": null,
+    "vehicle_type": "fourwheeler",
+    "vehicle_category": "Private",
+    "type": "standalonepa",
+    "main_policy_insurer_slug": "edelweiss"
+    }
+    ]
+    },
+    "coverageType": "comprehensive",
+    "lcc": 5,
+    "isStandalonePaApplied": true,
+    "isExpressClaimAvailable": false,
+    "NCB": 35,
+    "from_cache": false,
+    "is_preferred": true,
+    "vehicle_age": 3.0493150684931507
+    },
+    {
+    "insurerId": 54,
+    "insurerSlug": "acko",
+    "insurerName": "Acko General Insurance",
+    "planType": "FW-TERM1",
+    "tenure": "1",
+    "coverageType": "third_party",
+    "isInstantPolicy": false,
+    "minIDV": 0,
+    "maxIDV": 0,
+    "calculatedAtIDV": 0,
+    "serviceTaxRate": 0.18,
+    "premiumBreakup": {
+    "serviceTax": 589,
+    "basicCovers": [
+    {
+    "premium": 3221,
+    "id": "basicTp",
+    "default": 1,
+    "name": "Basic TP Premium"
+    }
+    ],
+    "addonCovers": [],
+    "discounts": [],
+    "specialDiscounts": [],
+    "paPassengerAmounts": {},
+    "standAlonePaCover": [
+    {
+    "policy_start_date": null,
+    "policy_end_date": null,
+    "allow_to_display_insurer_title": true,
+    "insurer_slug": "liberty-videocon",
+    "insurer_title": "Liberty General Insurance",
+    "premium": 375,
+    "total_premium": 442.5,
+    "tenure": 1,
+    "sales_channel_slug": "coverfox",
+    "id": "standalonePa",
+    "default": 0,
+    "make_name": null,
+    "make_id": null,
+    "vehicle_type": "fourwheeler",
+    "vehicle_category": "Private",
+    "type": "standalonepa",
+    "main_policy_insurer_slug": "acko"
+    }
+    ]
+    },
+    "isStandalonePaApplied": true,
+    "isExpressClaimAvailable": false,
+    "NCB": 0,
+    "from_cache": false,
+    "is_preferred": true,
+    "vehicle_age": 3.0493150684931507
+    },
+    {
+    "insurerId": 124,
+    "insurerSlug": "navi",
+    "insurerName": "Navi General Insurance",
+    "planType": "FW-TERM1",
+    "tenure": "1",
+    "coverageType": "third_party",
+    "seatingCapacity": 5,
+    "lcc": 5,
+    "isInstantPolicy": false,
+    "minIDV": 0,
+    "maxIDV": 0,
+    "calculatedAtIDV": 0,
+    "serviceTaxRate": 0.18,
+    "appliedDiscountRate": 0,
+    "isFlexiDiscountAvailable": false,
+    "premiumBreakup": {
+    "serviceTax": 0,
+    "basicCovers": [
+    {
+    "premium": 0,
+    "id": "basicOd",
+    "default": 1,
+    "name": "Basic OD Premium"
+    },
+    {
+    "premium": 0,
+    "id": "idvElectrical",
+    "default": 1,
+    "name": "Electrical Accessories Premium"
+    },
+    {
+    "premium": 0,
+    "id": "idvNonElectrical",
+    "default": 1,
+    "name": "Non-Electrical Accessories Premium"
+    },
+    {
+    "premium": 0,
+    "id": "cngKit",
+    "default": 1,
+    "name": "CNG/LPG Kit Premium"
+    },
+    {
+    "premium": 3221,
+    "id": "basicTp",
+    "default": 1,
+    "name": "Basic TP Premium"
+    },
+    {
+    "premium": 0,
+    "id": "cngKitTp",
+    "default": 1,
+    "name": "CNG/LPG Kit TP Premium"
+    }
+    ],
+    "addonCovers": [
+    {
+    "premium": 325,
+    "id": "isPAOpted",
+    "default": 0,
+    "name": "Personal Accident Cover"
+    }
+    ],
+    "discounts": [],
+    "specialDiscounts": [],
+    "paPassengerAmounts": {
+    "0": 0,
+    "10000": 25,
+    "50000": 125,
+    "100000": 250,
+    "200000": 500,
+    "type": "dynamic"
+    },
+    "tpDiscounts": {
+    "limitedTPPDDiscount": 0
+    },
+    "dependentCovers": {
+    "type": "dynamic"
+    },
+    "standAlonePaCover": []
+    },
+    "isStandalonePaApplied": false,
+    "isExpressClaimAvailable": false,
+    "NCB": 0,
+    "from_cache": false,
+    "is_preferred": true,
+    "vehicle_age": 3.0493150684931507
+    },
+    {
+    "insurerId": 4,
+    "insurerSlug": "iffco-tokio",
+    "insurerName": "Iffco Tokio General Insurance",
+    "tenure": 1,
+    "planType": "FW-TERM1",
+    "isInstantPolicy": true,
+    "minIDV": 737800,
+    "maxIDV": 1041600,
+    "calculatedAtIDV": 737800,
+    "serviceTaxRate": 0.18,
+    "premiumBreakup": {
+    "serviceTax": 4044.38,
+    "basicCovers": [
+    {
+    "id": "basicOd",
+    "default": 1,
+    "premium": 23543.2,
+    "name": "Basic OD Premium"
+    },
+    {
+    "id": "basicTp",
+    "default": 1,
+    "premium": 3221,
+    "name": "Basic TP Premium"
+    },
+    {
+    "id": "legalLiabilityDriver",
+    "default": 0,
+    "premium": 50,
+    "name": "LL Driver"
+    }
+    ],
+    "addonCovers": [
+    {
+    "id": "isCostOfConsumables",
+    "default": 0,
+    "premium": 1189.7,
+    "name": "Consumable Cover"
+    },
+    {
+    "id": "isDepreciationWaiver",
+    "default": 0,
+    "premium": 9591.4,
+    "name": "Zero Dep"
+    },
+    {
+    "id": "is247RoadsideAssistance",
+    "default": 1,
+    "premium": 0,
+    "name": "Roadside Assistance"
+    }
+    ],
+    "discounts": [
+    {
+    "id": "odDiscount",
+    "default": 1,
+    "premium": -10594.44,
+    "name": "OD Discount"
+    },
+    {
+    "id": "ncb",
+    "default": 1,
+    "premium": -4532.07,
+    "name": "No Claim Bonus"
+    }
+    ],
+    "specialDiscounts": [],
+    "dependentCovers": {
+    "isCostOfConsumables": [
+    "isDepreciationWaiver"
+    ],
+    "isInvoiceCover": [
+    "isDepreciationWaiver"
+    ],
+    "isNcbProtection": [
+    "isDepreciationWaiver"
+    ],
+    "type": "dynamic"
+    },
+    "paPassengerAmounts": {
+    "0": 0,
+    "10000": 25,
+    "50000": 125,
+    "100000": 250,
+    "200000": 500,
+    "type": "dynamic"
+    },
+    "standAlonePaCover": [
+    {
+    "policy_start_date": null,
+    "policy_end_date": null,
+    "allow_to_display_insurer_title": true,
+    "insurer_slug": "liberty-videocon",
+    "insurer_title": "Liberty General Insurance",
+    "premium": 375,
+    "total_premium": 442.5,
+    "tenure": 1,
+    "sales_channel_slug": "coverfox",
+    "id": "standalonePa",
+    "default": 0,
+    "make_name": null,
+    "make_id": null,
+    "vehicle_type": "fourwheeler",
+    "vehicle_category": "Private",
+    "type": "standalonepa",
+    "main_policy_insurer_slug": "iffco-tokio"
+    }
+    ]
+    },
+    "coverageType": "comprehensive",
+    "isStandalonePaApplied": true,
+    "isExpressClaimAvailable": false,
+    "NCB": 35,
+    "from_cache": false,
+    "is_preferred": true,
+    "vehicle_age": 3.0465444191188045
+    },
+    {
+    "insurerId": 18,
+    "insurerSlug": "united-india",
+    "insurerName": "United India Insurance",
+    "planType": "FW-OD-TERM1",
+    "tenure": "1",
+    "isInstantPolicy": false,
+    "minIDV": 543594,
+    "maxIDV": 664392,
+    "calculatedAtIDV": 543593,
+    "serviceTaxRate": 0.18,
+    "appliedDiscountRate": 75,
+    "premiumBreakup": {
+    "serviceTax": 1601,
+    "basicCovers": [
+    {
+    "id": "basicOd",
+    "default": 1,
+    "premium": 17346.07,
+    "name": "Basic OD Premium"
+    },
+    {
+    "id": "idvElectrical",
+    "default": 1,
+    "premium": 0,
+    "name": "Electrical Accessories Premium"
+    },
+    {
+    "id": "idvNonElectrical",
+    "default": 1,
+    "premium": 0,
+    "name": "Non-Electrical Accessories Premium"
+    },
+    {
+    "id": "cngKit",
+    "default": 1,
+    "premium": 0,
+    "name": "CNG/LPG Kit Premium"
+    }
+    ],
+    "addonCovers": [
+    {
+    "id": "isDepreciationWaiver",
+    "default": 0,
+    "premium": 5204,
+    "name": "Zero Dep"
+    },
+    {
+    "id": "isEngineProtector",
+    "default": 0,
+    "premium": 1468,
+    "name": "Engine Protector"
+    },
+    {
+    "id": "isCostOfConsumables",
+    "default": 0,
+    "premium": 924,
+    "name": "Consumable Cover"
+    },
+    {
+    "id": "isKeyReplacement",
+    "default": 0,
+    "premium": 300,
+    "name": "Key and Lock Replacement"
+    }
+    ],
+    "discounts": [
+    {
+    "id": "ncb",
+    "default": 1,
+    "premium": -3339,
+    "barePremium": -1517.78,
+    "name": "No Claim Bonus"
+    },
+    {
+    "id": "odDiscount",
+    "default": 1,
+    "premium": -13010,
+    "barePremium": -13009.55,
+    "name": "OD Discount"
+    }
+    ],
+    "specialDiscounts": [],
+    "paPassengerAmounts": {
+    "0": 0,
+    "10000": 25,
+    "50000": 125,
+    "100000": 250,
+    "200000": 500,
+    "type": "dynamic"
+    },
+    "addonDiscounts": {
+    "isDepreciationWaiver": {
+    "ncb": -1821.34
+    },
+    "isInvoiceCover": {},
+    "isEngineProtector": {}
+    },
+    "standAlonePaCover": [
+    {
+    "policy_start_date": null,
+    "policy_end_date": null,
+    "allow_to_display_insurer_title": true,
+    "insurer_slug": "liberty-videocon",
+    "insurer_title": "Liberty General Insurance",
+    "premium": 375,
+    "total_premium": 442.5,
+    "tenure": 1,
+    "sales_channel_slug": "coverfox",
+    "id": "standalonePa",
+    "default": 0,
+    "make_name": null,
+    "make_id": null,
+    "vehicle_type": "fourwheeler",
+    "vehicle_category": "Private",
+    "type": "standalonepa",
+    "main_policy_insurer_slug": "united-india"
+    }
+    ]
+    },
+    "coverageType": "own_damage",
+    "isStandalonePaApplied": true,
+    "isExpressClaimAvailable": false,
+    "NCB": 35,
+    "from_cache": false,
+    "is_preferred": true,
+    "vehicle_age": 3.0493150684931507
+    },
+    {
+    "insurerId": 17,
+    "insurerName": "National Insurance",
+    "insurerSlug": "national-insurance",
+    "planType": "FW-OD-TERM1",
+    "tenure": "1",
+    "isInstantPolicy": false,
+    "minIDV": 483194,
+    "maxIDV": 724791,
+    "calculatedAtIDV": 483194,
+    "serviceTaxRate": 0.18,
+    "appliedDiscountRate": 85,
+    "premiumBreakup": {
+    "serviceTax": 1775,
+    "basicCovers": [
+    {
+    "id": "basicOd",
+    "default": 1,
+    "premium": 15418.73,
+    "name": "Basic OD Premium"
+    },
+    {
+    "id": "basicTp",
+    "default": 1,
+    "premium": 0,
+    "name": "Basic TP Premium"
+    },
+    {
+    "id": "paPassenger",
+    "default": 1,
+    "premium": 0,
+    "name": "PA Unnamed Passenger"
+    },
+    {
+    "id": "idvElectrical",
+    "default": 1,
+    "premium": 0,
+    "name": "Electrical Accessories Premium"
+    },
+    {
+    "id": "idvNonElectrical",
+    "default": 1,
+    "premium": 0,
+    "name": "Non-Electrical Accessories Premium"
+    },
+    {
+    "id": "cngKit",
+    "default": 1,
+    "premium": 0,
+    "name": "CNG/LPG Kit Premium"
+    },
+    {
+    "id": "cngKitTp",
+    "default": 1,
+    "premium": 0,
+    "name": "CNG/LPG Kit TP Premium"
+    }
+    ],
+    "addonCovers": [
+    {
+    "id": "isDepreciationWaiver",
+    "default": 0,
+    "premium": 4735.31,
+    "name": "Zero Dep"
+    },
+    {
+    "id": "isInvoiceCover",
+    "default": 0,
+    "premium": 2850.85,
+    "name": "Invoice Cover"
+    },
+    {
+    "id": "isEngineProtector",
+    "default": 0,
+    "premium": 773.11,
+    "name": "Engine Protector"
+    }
+    ],
+    "discounts": [
+    {
+    "id": "ncb",
+    "default": 1,
+    "premium": -809.48,
+    "barePremium": -809.48,
+    "name": "No Claim Bonus"
+    },
+    {
+    "id": "odDiscount",
+    "default": 1,
+    "premium": -13105.92,
+    "name": "OD Discount"
+    }
+    ],
+    "specialDiscounts": [],
+    "paPassengerAmounts": {
+    "0": 0,
+    "10000": 25,
+    "50000": 125,
+    "100000": 250,
+    "200000": 500,
+    "type": "dynamic"
+    },
+    "addonDiscounts": {
+    "isDepreciationWaiver": {
+    "ncb": 0
+    },
+    "isInvoiceCover": {
+    "ncb": 0
+    },
+    "isEngineProtector": {
+    "ncb": 0
+    },
+    "isNcbProtection": {}
+    },
+    "standAlonePaCover": []
+    },
+    "coverageType": "own_damage",
+    "isStandalonePaApplied": false,
+    "isExpressClaimAvailable": false,
+    "NCB": 35,
+    "from_cache": false,
+    "is_preferred": true,
+    "vehicle_age": 3.0493150684931507
+    },
+    {
+    "insurerId": 2,
+    "insurerSlug": "bajaj-allianz",
+    "insurerName": "Bajaj Allianz General Insurance",
+    "planType": "FW-OD-TERM1",
+    "tenure": "1",
+    "isInstantPolicy": true,
+    "minIDV": 542525,
+    "maxIDV": 542525,
+    "calculatedAtIDV": 542525,
+    "serviceTaxRate": 0.18,
+    "seatingCapacity": 6,
+    "premiumBreakup": {
+    "serviceTax": 2476,
+    "basicCovers": [
+    {
+    "id": "basicOd",
+    "default": 1,
+    "premium": 17311.97,
+    "name": "Basic OD Premium"
+    },
+    {
+    "id": "odExtra",
+    "default": 1,
+    "premium": 105,
+    "name": "Extra OD Premium"
+    }
+    ],
+    "addonCovers": [
+    {
+    "id": "is247RoadsideAssistance",
+    "default": 1,
+    "premium": 0,
+    "name": "Roadside Assistance"
+    },
+    {
+    "id": "isDepreciationWaiver",
+    "default": 0,
+    "premium": 6371,
+    "name": "Zero Dep"
+    },
+    {
+    "id": "isEngineProtector",
+    "default": 0,
+    "premium": 217,
+    "name": "Engine Protector"
+    },
+    {
+    "id": "isCostOfConsumables",
+    "default": 0,
+    "premium": 868,
+    "name": "Consumable Cover"
+    }
+    ],
+    "discounts": [
+    {
+    "id": "ncb",
+    "default": 1,
+    "premium": -6059.19,
+    "name": "No Claim Bonus"
+    },
+    {
+    "id": "commDiscount",
+    "default": 1,
+    "premium": -5064,
+    "name": "Commercial Discount"
+    }
+    ],
+    "specialDiscounts": [],
+    "dependentCovers": {
+    "isDepreciationWaiver": [
+    "isEngineProtector",
+    "isCostOfConsumables"
+    ],
+    "isEngineProtector": [
+    "isDepreciationWaiver",
+    "isCostOfConsumables"
+    ],
+    "isCostOfConsumables": [
+    "isDepreciationWaiver",
+    "isEngineProtector"
+    ],
+    "type": "dynamic"
+    },
+    "paPassengerAmounts": {},
+    "standAlonePaCover": [
+    {
+    "policy_start_date": null,
+    "policy_end_date": null,
+    "allow_to_display_insurer_title": true,
+    "insurer_slug": "liberty-videocon",
+    "insurer_title": "Liberty General Insurance",
+    "premium": 375,
+    "total_premium": 442.5,
+    "tenure": 1,
+    "sales_channel_slug": "coverfox",
+    "id": "standalonePa",
+    "default": 0,
+    "make_name": null,
+    "make_id": null,
+    "vehicle_type": "fourwheeler",
+    "vehicle_category": "Private",
+    "type": "standalonepa",
+    "main_policy_insurer_slug": "bajaj-allianz"
+    }
+    ]
+    },
+    "coverageType": "own_damage",
+    "isStandalonePaApplied": true,
+    "isExpressClaimAvailable": false,
+    "NCB": 35,
+    "from_cache": false,
+    "is_preferred": true,
+    "vehicle_age": 3.0465444191188045
+    },
+    {
+    "insurerId": 2,
+    "insurerSlug": "bajaj-allianz",
+    "insurerName": "Bajaj Allianz General Insurance",
+    "planType": "FW-TERM1",
+    "tenure": "1",
+    "isInstantPolicy": true,
+    "minIDV": 542525,
+    "maxIDV": 542525,
+    "calculatedAtIDV": 542525,
+    "serviceTaxRate": 0.18,
+    "seatingCapacity": 6,
+    "premiumBreakup": {
+    "serviceTax": 3064,
+    "basicCovers": [
+    {
+    "id": "basicOd",
+    "default": 1,
+    "premium": 17311.97,
+    "name": "Basic OD Premium"
+    },
+    {
+    "id": "basicTp",
+    "default": 1,
+    "premium": 3221,
+    "name": "Basic TP Premium"
+    },
+    {
+    "id": "legalLiabilityDriver",
+    "default": 0,
+    "premium": 50,
+    "name": "LL Driver"
+    },
+    {
+    "id": "odExtra",
+    "default": 1,
+    "premium": 105,
+    "name": "Extra OD Premium"
+    }
+    ],
+    "addonCovers": [
+    {
+    "id": "is247RoadsideAssistance",
+    "default": 1,
+    "premium": 0,
+    "name": "Roadside Assistance"
+    },
+    {
+    "id": "isDepreciationWaiver",
+    "default": 0,
+    "premium": 6371,
+    "name": "Zero Dep"
+    },
+    {
+    "id": "isEngineProtector",
+    "default": 0,
+    "premium": 217,
+    "name": "Engine Protector"
+    },
+    {
+    "id": "isCostOfConsumables",
+    "default": 0,
+    "premium": 868,
+    "name": "Consumable Cover"
+    }
+    ],
+    "discounts": [
+    {
+    "id": "ncb",
+    "default": 1,
+    "premium": -6059.19,
+    "name": "No Claim Bonus"
+    },
+    {
+    "id": "commDiscount",
+    "default": 1,
+    "premium": -5064,
+    "name": "Commercial Discount"
+    }
+    ],
+    "specialDiscounts": [],
+    "dependentCovers": {
+    "isDepreciationWaiver": [
+    "isEngineProtector",
+    "isCostOfConsumables"
+    ],
+    "isEngineProtector": [
+    "isDepreciationWaiver",
+    "isCostOfConsumables"
+    ],
+    "isCostOfConsumables": [
+    "isDepreciationWaiver",
+    "isEngineProtector"
+    ],
+    "type": "dynamic"
+    },
+    "paPassengerAmounts": {
+    "0": 0,
+    "10000": 25,
+    "50000": 125,
+    "100000": 250,
+    "200000": 500,
+    "type": "dynamic"
+    },
+    "standAlonePaCover": [
+    {
+    "policy_start_date": null,
+    "policy_end_date": null,
+    "allow_to_display_insurer_title": true,
+    "insurer_slug": "liberty-videocon",
+    "insurer_title": "Liberty General Insurance",
+    "premium": 375,
+    "total_premium": 442.5,
+    "tenure": 1,
+    "sales_channel_slug": "coverfox",
+    "id": "standalonePa",
+    "default": 0,
+    "make_name": null,
+    "make_id": null,
+    "vehicle_type": "fourwheeler",
+    "vehicle_category": "Private",
+    "type": "standalonepa",
+    "main_policy_insurer_slug": "bajaj-allianz"
+    }
+    ]
+    },
+    "coverageType": "comprehensive",
+    "isStandalonePaApplied": true,
+    "isExpressClaimAvailable": false,
+    "NCB": 35,
+    "from_cache": false,
+    "is_preferred": true,
+    "vehicle_age": 3.0465444191188045
+    },
+    {
+    "insurerId": 54,
+    "insurerSlug": "acko",
+    "insurerName": "Acko General Insurance",
+    "planType": "FW-TERM1",
+    "tenure": "1",
+    "coverageType": "comprehensive",
+    "isInstantPolicy": false,
+    "minIDV": 294000,
+    "maxIDV": 999600,
+    "calculatedAtIDV": 529200,
+    "serviceTaxRate": 0.18,
+    "premiumBreakup": {
+    "serviceTax": 2035,
+    "basicCovers": [
+    {
+    "premium": 3492,
+    "id": "basicOd",
+    "default": 1,
+    "name": "Basic OD Premium"
+    },
+    {
+    "premium": 3221,
+    "id": "basicTp",
+    "default": 1,
+    "name": "Basic TP Premium"
+    },
+    {
+    "premium": 50,
+    "id": "legalLiabilityDriver",
+    "default": 0,
+    "name": "LL Driver"
+    }
+    ],
+    "addonCovers": [
+    {
+    "premium": 1111,
+    "id": "isEngineProtector",
+    "default": 0,
+    "name": "Engine Protector"
+    },
+    {
+    "premium": 112,
+    "id": "isCostOfConsumables",
+    "default": 1,
+    "name": "Consumable Cover"
+    },
+    {
+    "premium": 4541,
+    "id": "isDepreciationWaiver",
+    "default": 0,
+    "name": "Zero Dep"
+    }
+    ],
+    "discounts": [
+    {
+    "premium": -1222,
+    "id": "ncb",
+    "default": 1,
+    "name": "No Claim Bonus"
+    }
+    ],
+    "specialDiscounts": [],
+    "paPassengerAmounts": {},
+    "standAlonePaCover": [
+    {
+    "policy_start_date": null,
+    "policy_end_date": null,
+    "allow_to_display_insurer_title": true,
+    "insurer_slug": "liberty-videocon",
+    "insurer_title": "Liberty General Insurance",
+    "premium": 375,
+    "total_premium": 442.5,
+    "tenure": 1,
+    "sales_channel_slug": "coverfox",
+    "id": "standalonePa",
+    "default": 0,
+    "make_name": null,
+    "make_id": null,
+    "vehicle_type": "fourwheeler",
+    "vehicle_category": "Private",
+    "type": "standalonepa",
+    "main_policy_insurer_slug": "acko"
+    }
+    ]
+    },
+    "isStandalonePaApplied": true,
+    "isExpressClaimAvailable": false,
+    "NCB": 35,
+    "from_cache": false,
+    "is_preferred": true,
+    "vehicle_age": 3.0493150684931507
+    },
+    {
+    "insurerId": 10,
+    "insurerSlug": "new-india",
+    "insurerName": "New India Assurance",
+    "planType": "FW-TERM1",
+    "coverageType": "comprehensive",
+    "tenure": 1,
+    "isInstantPolicy": true,
+    "minIDV": 522720,
+    "maxIDV": 667920,
+    "calculatedAtIDV": 580800,
+    "serviceTaxRate": 0.18,
+    "appliedDiscountRate": 60,
+    "isFlexiDiscountAvailable": true,
+    "premiumBreakup": {
+    "serviceTax": 1456,
+    "basicCovers": [
+    {
+    "id": "basicOd",
+    "default": 1,
+    "premium": 18533.33,
+    "name": "Basic OD Premium"
+    },
+    {
+    "id": "basicTp",
+    "default": 1,
+    "premium": 3221,
+    "name": "Basic TP Premium"
+    },
+    {
+    "id": "legalLiabilityDriver",
+    "default": 0,
+    "premium": 50,
+    "name": "LL Driver"
+    }
+    ],
+    "addonCovers": [],
+    "discounts": [
+    {
+    "premium": -2594.67,
+    "id": "ncb",
+    "default": 1,
+    "name": "No Claim Bonus"
+    },
+    {
+    "id": "odDiscount",
+    "default": 1,
+    "premium": -11120,
+    "name": "OD Discount"
+    }
+    ],
+    "specialDiscounts": [],
+    "dependentCovers": {
+    "isCostOfConsumables": [
+    "isDepreciationWaiver"
+    ],
+    "isEngineProtector": [
+    "isDepreciationWaiver"
+    ],
+    "isNcbProtection": [
+    "isDepreciationWaiver"
+    ],
+    "type": "dynamic"
+    },
+    "paPassengerAmounts": {
+    "0": 0,
+    "10000": 25,
+    "50000": 125,
+    "100000": 250,
+    "200000": 500,
+    "type": "dynamic"
+    },
+    "standAlonePaCover": [
+    {
+    "policy_start_date": null,
+    "policy_end_date": null,
+    "allow_to_display_insurer_title": true,
+    "insurer_slug": "liberty-videocon",
+    "insurer_title": "Liberty General Insurance",
+    "premium": 375,
+    "total_premium": 442.5,
+    "tenure": 1,
+    "sales_channel_slug": "coverfox",
+    "id": "standalonePa",
+    "default": 0,
+    "make_name": null,
+    "make_id": null,
+    "vehicle_type": "fourwheeler",
+    "vehicle_category": "Private",
+    "type": "standalonepa",
+    "main_policy_insurer_slug": "new-india"
+    }
+    ]
+    },
+    "isStandalonePaApplied": true,
+    "isExpressClaimAvailable": true,
+    "NCB": 35,
+    "from_cache": false,
+    "is_preferred": true,
+    "vehicle_age": 3.047227926078029
+    },
+    {
+    "insurerId": 58,
+    "insurerSlug": "go-digit",
+    "insurerName": "Go Digit General Insurance",
+    "planType": "FW-TERM1",
+    "tenure": "1",
+    "coverageType": "comprehensive",
+    "seatingCapacity": 5,
+    "isInstantPolicy": false,
+    "minIDV": 507439,
+    "maxIDV": 761158,
+    "calculatedAtIDV": 507439,
+    "serviceTaxRate": 0.18,
+    "minFlexiDiscount": null,
+    "maxFlexiDiscount": null,
+    "appliedDiscountRate": null,
+    "isFlexiDiscountAvailable": false,
+    "previous_claim": null,
+    "premiumBreakup": {
+    "serviceTax": 2576.62,
+    "basicCovers": [
+    {
+    "premium": 8217.65,
+    "id": "basicOd",
+    "default": 1,
+    "name": "Basic OD Premium"
+    },
+    {
+    "premium": 3221,
+    "id": "basicTp",
+    "default": 1,
+    "name": "Basic TP Premium"
+    },
+    {
+    "premium": 50,
+    "id": "legalLiabilityDriver",
+    "default": 0,
+    "name": "LL Driver"
+    }
+    ],
+    "addonCovers": [
+    {
+    "premium": 330,
+    "id": "isPAOpted",
+    "default": 0,
+    "name": "Personal Accident Cover"
+    },
+    {
+    "premium": 109,
+    "id": "is247RoadsideAssistance",
+    "default": 0,
+    "name": "Roadside Assistance"
+    },
+    {
+    "premium": 634.3,
+    "id": "isEngineProtector",
+    "default": 0,
+    "name": "Engine Protector"
+    },
+    {
+    "premium": 253.72,
+    "id": "isCostOfConsumables",
+    "default": 0,
+    "name": "Consumable Cover"
+    },
+    {
+    "premium": 4129.04,
+    "id": "isDepreciationWaiver",
+    "default": 0,
+    "name": "Zero Dep"
+    },
+    {
+    "premium": 246,
+    "id": "isKeyReplacement",
+    "default": 0,
+    "name": "Key and Lock Replacement"
+    }
+    ],
+    "discounts": [
+    {
+    "premium": -2876.18,
+    "id": "ncb",
+    "default": 1,
+    "name": "No Claim Bonus"
+    }
+    ],
+    "specialDiscounts": [],
+    "paPassengerAmounts": {
+    "0": 0,
+    "10000": 25,
+    "50000": 125,
+    "100000": 250,
+    "200000": 500,
+    "type": "dynamic"
+    },
+    "standAlonePaCover": []
+    },
+    "isStandalonePaApplied": false,
+    "isExpressClaimAvailable": false,
+    "NCB": 35,
+    "from_cache": false,
+    "is_preferred": true,
+    "vehicle_age": 3.0493150684931507
+    },
+    {
+    "insurerId": 9,
+    "insurerSlug": "universal-sompo",
+    "insurerName": "Universal Sompo General Insurance",
+    "planType": "FW-TERM1",
+    "tenure": "1",
+    "coverageType": "comprehensive",
+    "seatingCapacity": 5,
+    "lcc": 5,
+    "isInstantPolicy": false,
+    "minIDV": 603993,
+    "maxIDV": 603993,
+    "calculatedAtIDV": 603993,
+    "serviceTaxRate": 0.18,
+    "appliedDiscountRate": 0.6,
+    "isFlexiDiscountAvailable": false,
+    "premiumBreakup": {
+    "serviceTax": 3453.3,
+    "basicCovers": [
+    {
+    "premium": 19273,
+    "id": "basicOd",
+    "default": 1,
+    "name": "Basic OD Premium"
+    },
+    {
+    "premium": 3221,
+    "id": "basicTp",
+    "default": 1,
+    "name": "Basic TP Premium"
+    },
+    {
+    "premium": 50,
+    "id": "legalLiabilityDriver",
+    "default": 0,
+    "name": "LL Driver"
+    }
+    ],
+    "addonCovers": [
+    {
+    "premium": 325,
+    "id": "isPAOpted",
+    "default": 0,
+    "name": "Personal Accident Cover"
+    },
+    {
+    "premium": 250,
+    "id": "isKeyReplacement",
+    "default": 0,
+    "name": "Key and Lock Replacement"
+    },
+    {
+    "premium": 2295.17,
+    "id": "isInvoiceCover",
+    "default": 0,
+    "name": "Invoice Cover"
+    },
+    {
+    "premium": 181,
+    "id": "isCostOfConsumables",
+    "default": 0,
+    "name": "Consumable Cover"
+    },
+    {
+    "premium": 7852,
+    "id": "isDepreciationWaiver",
+    "default": 0,
+    "name": "Zero Dep"
+    }
+    ],
+    "discounts": [
+    {
+    "premium": -2698,
+    "id": "ncb",
+    "default": 1,
+    "name": "No Claim Bonus"
+    },
+    {
+    "id": "odDiscount",
+    "default": 1,
+    "premium": -11563.8,
+    "name": "OD Discount"
+    }
+    ],
+    "specialDiscounts": [],
+    "paPassengerAmounts": {
+    "0": 0,
+    "10000": 25,
+    "50000": 125,
+    "100000": 250,
+    "200000": 500,
+    "type": "dynamic"
+    },
+    "tpDiscounts": {
+    "limitedTPPDDiscount": 0
+    },
+    "standAlonePaCover": []
+    },
+    "isStandalonePaApplied": false,
+    "isExpressClaimAvailable": false,
+    "NCB": 35,
+    "from_cache": false,
+    "is_preferred": true,
+    "vehicle_age": 3.047227926078029
+    },
+    {
+    "insurerId": 18,
+    "insurerSlug": "united-india",
+    "insurerName": "United India Insurance",
+    "planType": "FW-TERM1",
+    "tenure": "1",
+    "isInstantPolicy": false,
+    "minIDV": 543594,
+    "maxIDV": 664392,
+    "calculatedAtIDV": 543593,
+    "serviceTaxRate": 0.18,
+    "appliedDiscountRate": 75,
+    "premiumBreakup": {
+    "serviceTax": 2190,
+    "basicCovers": [
+    {
+    "id": "basicOd",
+    "default": 1,
+    "premium": 17346.07,
+    "name": "Basic OD Premium"
+    },
+    {
+    "id": "idvElectrical",
+    "default": 1,
+    "premium": 0,
+    "name": "Electrical Accessories Premium"
+    },
+    {
+    "id": "idvNonElectrical",
+    "default": 1,
+    "premium": 0,
+    "name": "Non-Electrical Accessories Premium"
+    },
+    {
+    "id": "cngKit",
+    "default": 1,
+    "premium": 0,
+    "name": "CNG/LPG Kit Premium"
+    },
+    {
+    "id": "basicTp",
+    "default": 1,
+    "premium": 3221,
+    "name": "Basic TP Premium"
+    },
+    {
+    "id": "cngKitTp",
+    "default": 1,
+    "premium": 0,
+    "name": "CNG/LPG Kit TP Premium"
+    },
+    {
+    "id": "paPassenger",
+    "default": 1,
+    "premium": 0,
+    "name": "PA Unnamed Passenger"
+    },
+    {
+    "id": "legalLiabilityDriver",
+    "default": 0,
+    "premium": 50,
+    "name": "LL Driver"
+    }
+    ],
+    "addonCovers": [
+    {
+    "id": "isDepreciationWaiver",
+    "default": 0,
+    "premium": 5204,
+    "name": "Zero Dep"
+    },
+    {
+    "id": "isEngineProtector",
+    "default": 0,
+    "premium": 1468,
+    "name": "Engine Protector"
+    },
+    {
+    "id": "isCostOfConsumables",
+    "default": 0,
+    "premium": 924,
+    "name": "Consumable Cover"
+    },
+    {
+    "id": "isKeyReplacement",
+    "default": 0,
+    "premium": 300,
+    "name": "Key and Lock Replacement"
+    }
+    ],
+    "discounts": [
+    {
+    "id": "ncb",
+    "default": 1,
+    "premium": -3339,
+    "barePremium": -1517.78,
+    "name": "No Claim Bonus"
+    },
+    {
+    "id": "odDiscount",
+    "default": 1,
+    "premium": -13010,
+    "barePremium": -13009.55,
+    "name": "OD Discount"
+    }
+    ],
+    "specialDiscounts": [],
+    "paPassengerAmounts": {
+    "0": 0,
+    "10000": 25,
+    "50000": 125,
+    "100000": 250,
+    "200000": 500,
+    "type": "dynamic"
+    },
+    "addonDiscounts": {
+    "isDepreciationWaiver": {
+    "ncb": -1821.34
+    },
+    "isInvoiceCover": {},
+    "isEngineProtector": {}
+    },
+    "standAlonePaCover": [
+    {
+    "policy_start_date": null,
+    "policy_end_date": null,
+    "allow_to_display_insurer_title": true,
+    "insurer_slug": "liberty-videocon",
+    "insurer_title": "Liberty General Insurance",
+    "premium": 375,
+    "total_premium": 442.5,
+    "tenure": 1,
+    "sales_channel_slug": "coverfox",
+    "id": "standalonePa",
+    "default": 0,
+    "make_name": null,
+    "make_id": null,
+    "vehicle_type": "fourwheeler",
+    "vehicle_category": "Private",
+    "type": "standalonepa",
+    "main_policy_insurer_slug": "united-india"
+    }
+    ]
+    },
+    "coverageType": "comprehensive",
+    "isStandalonePaApplied": true,
+    "isExpressClaimAvailable": false,
+    "NCB": 35,
+    "from_cache": false,
+    "is_preferred": true,
+    "vehicle_age": 3.0493150684931507
+    },
+    {
+    "insurerId": 15,
+    "insurerSlug": "royal-sundaram",
+    "insurerName": "Royal Sundaram General Insurance",
+    "planType": "FW-TERM1",
+    "tenure": "1",
+    "isInstantPolicy": true,
+    "maxIDV": 694591,
+    "minIDV": 543594,
+    "serviceTaxRate": 0.18,
+    "premiumBreakup": {
+    "serviceTax": 3258,
+    "basicCovers": [
+    {
+    "premium": 9193,
+    "id": "basicOd",
+    "default": 1,
+    "name": "Basic OD Premium"
+    },
+    {
+    "premium": 3221,
+    "id": "basicTp",
+    "default": 1,
+    "name": "Basic TP Premium"
+    },
+    {
+    "premium": 50,
+    "id": "legalLiabilityDriver",
+    "default": 0,
+    "name": "LL Driver"
+    }
+    ],
+    "addonCovers": [
+    {
+    "premium": 429,
+    "id": "isKeyReplacement",
+    "default": 0,
+    "name": "Key and Lock Replacement"
+    },
+    {
+    "premium": 0,
+    "id": "is247RoadsideAssistance",
+    "default": 1,
+    "name": "Roadside Assistance"
+    },
+    {
+    "premium": 6795,
+    "id": "isDepreciationWaiver",
+    "default": 0,
+    "name": "Zero Dep"
+    },
+    {
+    "premium": 1631,
+    "id": "isNcbProtection",
+    "default": 0,
+    "name": "NCB Protection"
+    }
+    ],
+    "discounts": [
+    {
+    "premium": -3217.55,
+    "id": "ncb",
+    "default": 1,
+    "name": "No Claim Bonus"
+    }
+    ],
+    "specialDiscounts": [],
+    "dependentCovers": {
+    "type": "dynamic"
+    },
+    "paPassengerAmounts": {
+    "0": 0,
+    "10000": 25,
+    "50000": 125,
+    "100000": 250,
+    "200000": 500,
+    "type": "dynamic"
+    },
+    "standAlonePaCover": [
+    {
+    "policy_start_date": null,
+    "policy_end_date": null,
+    "allow_to_display_insurer_title": true,
+    "insurer_slug": "liberty-videocon",
+    "insurer_title": "Liberty General Insurance",
+    "premium": 375,
+    "total_premium": 442.5,
+    "tenure": 1,
+    "sales_channel_slug": "coverfox",
+    "id": "standalonePa",
+    "default": 0,
+    "make_name": null,
+    "make_id": null,
+    "vehicle_type": "fourwheeler",
+    "vehicle_category": "Private",
+    "type": "standalonepa",
+    "main_policy_insurer_slug": "royal-sundaram"
+    }
+    ]
+    },
+    "coverageType": "comprehensive",
+    "vehicle_age": 3.047227926078029,
+    "policyTerm": 1,
+    "calculatedAtIDV": 543594,
+    "isStandalonePaApplied": true,
+    "isExpressClaimAvailable": false,
+    "NCB": 35,
+    "from_cache": false,
+    "is_preferred": true
+    },
+    {
+    "insurerId": 17,
+    "insurerName": "National Insurance",
+    "insurerSlug": "national-insurance",
+    "planType": "FW-TERM1",
+    "tenure": "1",
+    "isInstantPolicy": false,
+    "minIDV": 483194,
+    "maxIDV": 724791,
+    "calculatedAtIDV": 483194,
+    "serviceTaxRate": 0.18,
+    "appliedDiscountRate": 85,
+    "premiumBreakup": {
+    "serviceTax": 2364,
+    "basicCovers": [
+    {
+    "id": "basicOd",
+    "default": 1,
+    "premium": 15418.73,
+    "name": "Basic OD Premium"
+    },
+    {
+    "id": "basicTp",
+    "default": 1,
+    "premium": 3221,
+    "name": "Basic TP Premium"
+    },
+    {
+    "id": "paPassenger",
+    "default": 1,
+    "premium": 0,
+    "name": "PA Unnamed Passenger"
+    },
+    {
+    "id": "idvElectrical",
+    "default": 1,
+    "premium": 0,
+    "name": "Electrical Accessories Premium"
+    },
+    {
+    "id": "idvNonElectrical",
+    "default": 1,
+    "premium": 0,
+    "name": "Non-Electrical Accessories Premium"
+    },
+    {
+    "id": "cngKit",
+    "default": 1,
+    "premium": 0,
+    "name": "CNG/LPG Kit Premium"
+    },
+    {
+    "id": "cngKitTp",
+    "default": 1,
+    "premium": 0,
+    "name": "CNG/LPG Kit TP Premium"
+    },
+    {
+    "id": "legalLiabilityDriver",
+    "default": 0,
+    "premium": 50,
+    "name": "LL Driver"
+    }
+    ],
+    "addonCovers": [
+    {
+    "id": "isDepreciationWaiver",
+    "default": 0,
+    "premium": 4735.31,
+    "name": "Zero Dep"
+    },
+    {
+    "id": "isInvoiceCover",
+    "default": 0,
+    "premium": 2850.85,
+    "name": "Invoice Cover"
+    },
+    {
+    "id": "isEngineProtector",
+    "default": 0,
+    "premium": 773.11,
+    "name": "Engine Protector"
+    }
+    ],
+    "discounts": [
+    {
+    "id": "ncb",
+    "default": 1,
+    "premium": -809.48,
+    "barePremium": -809.48,
+    "name": "No Claim Bonus"
+    },
+    {
+    "id": "odDiscount",
+    "default": 1,
+    "premium": -13105.92,
+    "name": "OD Discount"
+    }
+    ],
+    "specialDiscounts": [],
+    "paPassengerAmounts": {
+    "0": 0,
+    "10000": 25,
+    "50000": 125,
+    "100000": 250,
+    "200000": 500,
+    "type": "dynamic"
+    },
+    "addonDiscounts": {
+    "isDepreciationWaiver": {
+    "ncb": 0
+    },
+    "isInvoiceCover": {
+    "ncb": 0
+    },
+    "isEngineProtector": {
+    "ncb": 0
+    },
+    "isNcbProtection": {}
+    },
+    "standAlonePaCover": [
+    {
+    "policy_start_date": null,
+    "policy_end_date": null,
+    "allow_to_display_insurer_title": true,
+    "insurer_slug": "liberty-videocon",
+    "insurer_title": "Liberty General Insurance",
+    "premium": 375,
+    "total_premium": 442.5,
+    "tenure": 1,
+    "sales_channel_slug": "coverfox",
+    "id": "standalonePa",
+    "default": 0,
+    "make_name": null,
+    "make_id": null,
+    "vehicle_type": "fourwheeler",
+    "vehicle_category": "Private",
+    "type": "standalonepa",
+    "main_policy_insurer_slug": "national-insurance"
+    }
+    ]
+    },
+    "coverageType": "comprehensive",
+    "isStandalonePaApplied": true,
+    "isExpressClaimAvailable": false,
+    "NCB": 35,
+    "from_cache": false,
+    "is_preferred": true,
+    "vehicle_age": 3.0493150684931507
+    },
+    {
+    "insurerId": 19,
+    "insurerSlug": "reliance",
+    "insurerName": "Reliance General Insurance",
+    "planType": "FW-TERM1",
+    "tenure": "1",
+    "coverageType": "comprehensive",
+    "isInstantPolicy": true,
+    "minIDV": 483194,
+    "maxIDV": 724792,
+    "calculatedAtIDV": 483194,
+    "serviceTaxRate": 0.18,
+    "premiumBreakup": {
+    "serviceTax": 2210.58,
+    "basicCovers": [
+    {
+    "premium": 7709.36,
+    "id": "basicOd",
+    "default": 1,
+    "name": "Basic OD Premium"
+    },
+    {
+    "premium": 3221,
+    "id": "basicTp",
+    "default": 1,
+    "name": "Basic TP Premium"
+    },
+    {
+    "premium": 50,
+    "id": "legalLiabilityDriver",
+    "default": 0,
+    "name": "LL Driver"
+    }
+    ],
+    "addonCovers": [
+    {
+    "premium": 3623.96,
+    "id": "isDepreciationWaiver",
+    "default": 0,
+    "name": "Zero Dep"
+    },
+    {
+    "premium": 483.19,
+    "id": "isEngineProtector",
+    "default": 0,
+    "name": "Engine Protector"
+    },
+    {
+    "premium": 483.19,
+    "id": "isCostOfConsumables",
+    "default": 0,
+    "name": "Consumable Cover"
+    },
+    {
+    "premium": 483.2,
+    "id": "isKeyReplacement",
+    "default": 0,
+    "name": "Key and Lock Replacement"
+    },
+    {
+    "premium": 375,
+    "id": "isPAOpted",
+    "default": 0,
+    "name": "Personal Accident Cover"
+    },
+    {
+    "id": "is247RoadsideAssistance",
+    "default": 1,
+    "premium": 0,
+    "name": "Roadside Assistance"
+    }
+    ],
+    "dependentCovers": {
+    "type": "dynamic",
+    "isEngineProtector": [
+    "isDepreciationWaiver",
+    "isCostOfConsumables"
+    ],
+    "isKeyReplacement": [
+    "isDepreciationWaiver",
+    "isCostOfConsumables",
+    "isEngineProtector"
+    ],
+    "isCostOfConsumables": [
+    "isEngineProtector",
+    "isDepreciationWaiver"
+    ]
+    },
+    "discounts": [
+    {
+    "premium": -2698.28,
+    "id": "ncb",
+    "default": 1,
+    "name": "No Claim Bonus"
+    }
+    ],
+    "specialDiscounts": [
+    {
+    "premium": 0,
+    "id": "isAntiTheftFitted",
+    "default": 1,
+    "name": "Anti-theft discount"
+    },
+    {
+    "premium": 0,
+    "id": "isMemberOfAutoAssociation",
+    "default": 1,
+    "name": "Automobile Association discount"
+    }
+    ],
+    "paPassengerAmounts": {
+    "0": 0,
+    "10000": 25,
+    "50000": 125,
+    "100000": 250,
+    "200000": 500,
+    "type": "dynamic"
+    },
+    "standAlonePaCover": []
+    },
+    "isStandalonePaApplied": false,
+    "isExpressClaimAvailable": false,
+    "NCB": 35,
+    "from_cache": false,
+    "is_preferred": true,
+    "vehicle_age": 3.0493150684931507
+    },
+    {
+    "insurerId": 14,
+    "insurerSlug": "sbi",
+    "insurerName": "SBI General Insurance",
+    "planType": "FW-TERM1",
+    "isInstantPolicy": true,
+    "minIDV": 543593,
+    "maxIDV": 724791,
+    "tenure": "1",
+    "calculatedAtIDV": 543593,
+    "serviceTaxRate": 0.18,
+    "appliedDiscountRate": 0,
+    "isFlexiDiscountAvailable": false,
+    "premiumBreakup": {
+    "serviceTax": 2506.52,
+    "basicCovers": [
+    {
+    "id": "basicOd",
+    "default": 1,
+    "premium": 6071.13,
+    "name": "Basic OD Premium"
+    },
+    {
+    "id": "basicTp",
+    "default": 1,
+    "premium": 3221,
+    "name": "Basic TP Premium"
+    },
+    {
+    "id": "legalLiabilityDriver",
+    "default": 0,
+    "premium": 50,
+    "name": "LL Driver"
+    }
+    ],
+    "addonCovers": [
+    {
+    "id": "is247RoadsideAssistance",
+    "default": 0,
+    "premium": 130,
+    "name": "Roadside Assistance"
+    },
+    {
+    "id": "isDepreciationWaiver",
+    "default": 0,
+    "premium": 2853.87,
+    "name": "Zero Dep"
+    },
+    {
+    "id": "isCostOfConsumables",
+    "default": 0,
+    "premium": 1358.98,
+    "name": "Consumable Cover"
+    },
+    {
+    "id": "isEngineProtector",
+    "default": 0,
+    "premium": 978.47,
+    "name": "Engine Protector"
+    },
+    {
+    "id": "isNcbProtection",
+    "default": 0,
+    "premium": 986.56,
+    "name": "NCB Protection"
+    },
+    {
+    "id": "isKeyReplacement",
+    "default": 0,
+    "premium": 400,
+    "name": "Key and Lock Replacement"
+    }
+    ],
+    "discounts": [
+    {
+    "id": "ncb",
+    "default": 1,
+    "premium": -2124.9,
+    "name": "No Claim Bonus"
+    }
+    ],
+    "specialDiscounts": [],
+    "paPassengerAmounts": {
+    "0": 0,
+    "10000": 25,
+    "50000": 125,
+    "100000": 250,
+    "200000": 500,
+    "type": "dynamic"
+    },
+    "standAlonePaCover": [
+    {
+    "policy_start_date": null,
+    "policy_end_date": null,
+    "allow_to_display_insurer_title": true,
+    "insurer_slug": "liberty-videocon",
+    "insurer_title": "Liberty General Insurance",
+    "premium": 375,
+    "total_premium": 442.5,
+    "tenure": 1,
+    "sales_channel_slug": "coverfox",
+    "id": "standalonePa",
+    "default": 0,
+    "make_name": null,
+    "make_id": null,
+    "vehicle_type": "fourwheeler",
+    "vehicle_category": "Private",
+    "type": "standalonepa",
+    "main_policy_insurer_slug": "sbi"
+    }
+    ]
+    },
+    "coverageType": "comprehensive",
+    "isStandalonePaApplied": true,
+    "isExpressClaimAvailable": false,
+    "NCB": 35,
+    "from_cache": false,
+    "is_preferred": true,
+    "vehicle_age": 3.0493150684931507
+    },
+    {
+    "insurerId": 57,
+    "insurerName": "Edelweiss General Insurance Company Ltd",
+    "insurerSlug": "edelweiss",
+    "planType": "FW-TERM1",
+    "tenure": "1",
+    "isInstantPolicy": false,
+    "minIDV": 440166,
+    "maxIDV": 674921,
+    "calculatedAtIDV": 440166,
+    "serviceTaxRate": 0.18,
+    "appliedDiscountRate": -0.7,
+    "premiumBreakup": {
+    "serviceTax": 589,
+    "basicCovers": [
+    {
+    "premium": 3221,
+    "id": "basicTp",
+    "default": 1,
+    "name": "Basic TP Premium"
+    },
+    {
+    "premium": 50,
+    "id": "legalLiabilityDriver",
+    "default": 0,
+    "name": "LL Driver"
+    }
+    ],
+    "addonCovers": [],
+    "discounts": [],
+    "specialDiscounts": [],
+    "paPassengerAmounts": {
+    "0": 0,
+    "10000": 25,
+    "50000": 125,
+    "100000": 250,
+    "200000": 500,
+    "type": "dynamic"
+    },
+    "addonDiscounts": [],
+    "tpDiscounts": {
+    "limitedTPPDDiscount": 0
+    },
+    "dependentCovers": {
+    "type": "dynamic"
+    },
+    "standAlonePaCover": [
+    {
+    "policy_start_date": null,
+    "policy_end_date": null,
+    "allow_to_display_insurer_title": true,
+    "insurer_slug": "liberty-videocon",
+    "insurer_title": "Liberty General Insurance",
+    "premium": 375,
+    "total_premium": 442.5,
+    "tenure": 1,
+    "sales_channel_slug": "coverfox",
+    "id": "standalonePa",
+    "default": 0,
+    "make_name": null,
+    "make_id": null,
+    "vehicle_type": "fourwheeler",
+    "vehicle_category": "Private",
+    "type": "standalonepa",
+    "main_policy_insurer_slug": "edelweiss"
+    }
+    ]
+    },
+    "coverageType": "third_party",
+    "lcc": 5,
+    "isStandalonePaApplied": true,
+    "isExpressClaimAvailable": false,
+    "NCB": 0,
+    "from_cache": false,
+    "is_preferred": true,
+    "vehicle_age": 3.0493150684931507
+    },
+    {
+    "insurerId": 13,
+    "insurerSlug": "icici-lombard",
+    "insurerName": "ICICI Lombard",
+    "planType": "FW-TERM1",
+    "tenure": "1",
+    "coverageType": "comprehensive",
+    "isInstantPolicy": false,
+    "minIDV": 535185,
+    "maxIDV": 682488,
+    "calculatedAtIDV": 535184,
+    "serviceTaxRate": 0.18,
+    "premiumBreakup": {
+    "serviceTax": 3454,
+    "basicCovers": [
+    {
+    "premium": 7685,
+    "id": "basicOd",
+    "default": 1,
+    "name": "Basic OD Premium"
+    },
+    {
+    "premium": 3221,
+    "id": "basicTp",
+    "default": 1,
+    "name": "Basic TP Premium"
+    },
+    {
+    "premium": 50,
+    "id": "legalLiabilityDriver",
+    "default": 0,
+    "name": "LL Driver"
+    }
+    ],
+    "addonCovers": [
+    {
+    "premium": 499,
+    "id": "isKeyReplacement",
+    "default": 0,
+    "name": "Key and Lock Replacement"
+    },
+    {
+    "premium": 199,
+    "id": "is247RoadsideAssistance",
+    "default": 0,
+    "name": "Roadside Assistance"
+    },
+    {
+    "premium": 910,
+    "id": "isEngineProtector",
+    "default": 0,
+    "name": "Engine Protector"
+    },
+    {
+    "premium": 2034,
+    "id": "isInvoiceCover",
+    "default": 0,
+    "name": "Invoice Cover"
+    },
+    {
+    "premium": 214,
+    "id": "isCostOfConsumables",
+    "default": 0,
+    "name": "Consumable Cover"
+    },
+    {
+    "premium": 6743,
+    "id": "isDepreciationWaiver",
+    "default": 0,
+    "name": "Zero Dep"
+    }
+    ],
+    "discounts": [
+    {
+    "premium": -2690,
+    "id": "ncb",
+    "default": 1,
+    "name": "No Claim Bonus"
+    }
+    ],
+    "specialDiscounts": [],
+    "paPassengerAmounts": {
+    "0": 0,
+    "10000": 25,
+    "50000": 125,
+    "100000": 250,
+    "200000": 500,
+    "type": "dynamic"
+    },
+    "standAlonePaCover": [
+    {
+    "policy_start_date": null,
+    "policy_end_date": null,
+    "allow_to_display_insurer_title": true,
+    "insurer_slug": "liberty-videocon",
+    "insurer_title": "Liberty General Insurance",
+    "premium": 375,
+    "total_premium": 442.5,
+    "tenure": 1,
+    "sales_channel_slug": "coverfox",
+    "id": "standalonePa",
+    "default": 0,
+    "make_name": null,
+    "make_id": null,
+    "vehicle_type": "fourwheeler",
+    "vehicle_category": "Private",
+    "type": "standalonepa",
+    "main_policy_insurer_slug": "icici-lombard"
+    }
+    ]
+    },
+    "isStandalonePaApplied": true,
+    "isExpressClaimAvailable": false,
+    "NCB": 35,
+    "from_cache": false,
+    "is_preferred": true,
+    "vehicle_age": 3.0493150684931507
+    },
+    {
+    "insurerId": 13,
+    "insurerSlug": "icici-lombard",
+    "insurerName": "ICICI Lombard",
+    "planType": "FW-TERM1",
+    "tenure": "1",
+    "coverageType": "third_party",
+    "isInstantPolicy": false,
+    "minIDV": 0,
+    "maxIDV": 0,
+    "calculatedAtIDV": 0,
+    "serviceTaxRate": 0.18,
+    "premiumBreakup": {
+    "serviceTax": 647,
+    "basicCovers": [
+    {
+    "premium": 3221,
+    "id": "basicTp",
+    "default": 1,
+    "name": "Basic TP Premium"
+    },
+    {
+    "premium": 50,
+    "id": "legalLiabilityDriver",
+    "default": 0,
+    "name": "LL Driver"
+    }
+    ],
+    "addonCovers": [],
+    "discounts": [],
+    "specialDiscounts": [],
+    "paPassengerAmounts": {
+    "0": 0,
+    "10000": 25,
+    "50000": 125,
+    "100000": 250,
+    "200000": 500,
+    "type": "dynamic"
+    },
+    "standAlonePaCover": [
+    {
+    "policy_start_date": null,
+    "policy_end_date": null,
+    "allow_to_display_insurer_title": true,
+    "insurer_slug": "liberty-videocon",
+    "insurer_title": "Liberty General Insurance",
+    "premium": 375,
+    "total_premium": 442.5,
+    "tenure": 1,
+    "sales_channel_slug": "coverfox",
+    "id": "standalonePa",
+    "default": 0,
+    "make_name": null,
+    "make_id": null,
+    "vehicle_type": "fourwheeler",
+    "vehicle_category": "Private",
+    "type": "standalonepa",
+    "main_policy_insurer_slug": "icici-lombard"
+    }
+    ]
+    },
+    "isStandalonePaApplied": true,
+    "isExpressClaimAvailable": false,
+    "NCB": 0,
+    "from_cache": false,
+    "is_preferred": true,
+    "vehicle_age": 3.0493150684931507
+    },
+    {
+    "insurerId": 2,
+    "insurerSlug": "bajaj-allianz",
+    "insurerName": "Bajaj Allianz General Insurance",
+    "planType": "FW-TERM1",
+    "tenure": "1",
+    "isInstantPolicy": true,
+    "minIDV": 0,
+    "maxIDV": 0,
+    "calculatedAtIDV": 0,
+    "serviceTaxRate": 0.18,
+    "seatingCapacity": 6,
+    "premiumBreakup": {
+    "serviceTax": 588,
+    "basicCovers": [
+    {
+    "id": "basicTp",
+    "default": 1,
+    "premium": 3221,
+    "name": "Basic TP Premium"
+    },
+    {
+    "id": "legalLiabilityDriver",
+    "default": 0,
+    "premium": 50,
+    "name": "LL Driver"
+    }
+    ],
+    "addonCovers": [],
+    "discounts": [],
+    "specialDiscounts": [],
+    "dependentCovers": {
+    "isDepreciationWaiver": [
+    "isEngineProtector",
+    "isCostOfConsumables"
+    ],
+    "isEngineProtector": [
+    "isDepreciationWaiver",
+    "isCostOfConsumables"
+    ],
+    "isCostOfConsumables": [
+    "isDepreciationWaiver",
+    "isEngineProtector"
+    ],
+    "type": "dynamic"
+    },
+    "paPassengerAmounts": {
+    "0": 0,
+    "10000": 25,
+    "50000": 125,
+    "100000": 250,
+    "200000": 500,
+    "type": "dynamic"
+    },
+    "standAlonePaCover": [
+    {
+    "policy_start_date": null,
+    "policy_end_date": null,
+    "allow_to_display_insurer_title": true,
+    "insurer_slug": "liberty-videocon",
+    "insurer_title": "Liberty General Insurance",
+    "premium": 375,
+    "total_premium": 442.5,
+    "tenure": 1,
+    "sales_channel_slug": "coverfox",
+    "id": "standalonePa",
+    "default": 0,
+    "make_name": null,
+    "make_id": null,
+    "vehicle_type": "fourwheeler",
+    "vehicle_category": "Private",
+    "type": "standalonepa",
+    "main_policy_insurer_slug": "bajaj-allianz"
+    }
+    ]
+    },
+    "coverageType": "third_party",
+    "isStandalonePaApplied": true,
+    "isExpressClaimAvailable": false,
+    "NCB": 0,
+    "from_cache": false,
+    "is_preferred": true,
+    "vehicle_age": 3.0465444191188045
+    },
+    {
+    "insurerId": 14,
+    "insurerSlug": "sbi",
+    "insurerName": "SBI General Insurance",
+    "planType": "FW-TERM1",
+    "isInstantPolicy": true,
+    "minIDV": 0,
+    "maxIDV": 0,
+    "tenure": "1",
+    "calculatedAtIDV": 0,
+    "serviceTaxRate": 0.18,
+    "appliedDiscountRate": 0,
+    "isFlexiDiscountAvailable": false,
+    "premiumBreakup": {
+    "serviceTax": 579.78,
+    "basicCovers": [
+    {
+    "id": "basicTp",
+    "default": 1,
+    "premium": 3221,
+    "name": "Basic TP Premium"
+    }
+    ],
+    "addonCovers": [],
+    "discounts": [],
+    "specialDiscounts": [],
+    "paPassengerAmounts": {
+    "0": 0,
+    "10000": 25,
+    "50000": 125,
+    "100000": 250,
+    "200000": 500,
+    "type": "dynamic"
+    },
+    "standAlonePaCover": [
+    {
+    "policy_start_date": null,
+    "policy_end_date": null,
+    "allow_to_display_insurer_title": true,
+    "insurer_slug": "liberty-videocon",
+    "insurer_title": "Liberty General Insurance",
+    "premium": 375,
+    "total_premium": 442.5,
+    "tenure": 1,
+    "sales_channel_slug": "coverfox",
+    "id": "standalonePa",
+    "default": 0,
+    "make_name": null,
+    "make_id": null,
+    "vehicle_type": "fourwheeler",
+    "vehicle_category": "Private",
+    "type": "standalonepa",
+    "main_policy_insurer_slug": "sbi"
+    }
+    ]
+    },
+    "coverageType": "third_party",
+    "isStandalonePaApplied": true,
+    "isExpressClaimAvailable": false,
+    "NCB": 0,
+    "from_cache": false,
+    "is_preferred": true,
+    "vehicle_age": 3.0493150684931507
+    },
+    {
+    "insurerId": 10,
+    "insurerSlug": "new-india",
+    "insurerName": "New India Assurance",
+    "planType": "FW-TERM1",
+    "coverageType": "third_party",
+    "tenure": 1,
+    "isInstantPolicy": true,
+    "minIDV": 0,
+    "maxIDV": 0,
+    "calculatedAtIDV": 0,
+    "serviceTaxRate": 0.18,
+    "appliedDiscountRate": 0,
+    "isFlexiDiscountAvailable": true,
+    "premiumBreakup": {
+    "serviceTax": 580,
+    "basicCovers": [
+    {
+    "id": "basicTp",
+    "default": 1,
+    "premium": 3221,
+    "name": "Basic TP Premium"
+    }
+    ],
+    "addonCovers": [],
+    "discounts": [],
+    "specialDiscounts": [],
+    "dependentCovers": {
+    "isCostOfConsumables": [
+    "isDepreciationWaiver"
+    ],
+    "isEngineProtector": [
+    "isDepreciationWaiver"
+    ],
+    "isNcbProtection": [
+    "isDepreciationWaiver"
+    ],
+    "type": "dynamic"
+    },
+    "paPassengerAmounts": {
+    "0": 0,
+    "10000": 25,
+    "50000": 125,
+    "100000": 250,
+    "200000": 500,
+    "type": "dynamic"
+    },
+    "standAlonePaCover": [
+    {
+    "policy_start_date": null,
+    "policy_end_date": null,
+    "allow_to_display_insurer_title": true,
+    "insurer_slug": "liberty-videocon",
+    "insurer_title": "Liberty General Insurance",
+    "premium": 375,
+    "total_premium": 442.5,
+    "tenure": 1,
+    "sales_channel_slug": "coverfox",
+    "id": "standalonePa",
+    "default": 0,
+    "make_name": null,
+    "make_id": null,
+    "vehicle_type": "fourwheeler",
+    "vehicle_category": "Private",
+    "type": "standalonepa",
+    "main_policy_insurer_slug": "new-india"
+    }
+    ]
+    },
+    "isStandalonePaApplied": true,
+    "isExpressClaimAvailable": false,
+    "NCB": 0,
+    "from_cache": false,
+    "is_preferred": true,
+    "vehicle_age": 3.047227926078029
+    }
+    ],
+    "finished": false
+    }
+    }

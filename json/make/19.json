@@ -1,0 +1,1534 @@
+{
+    "success": true,
+    "errorCode": null,
+    "errorMessage": null,
+    "errorItems": [],
+    "data": {
+    "89": {
+    "id": 89,
+    "name": "Accord",
+    "variants": [
+    {
+    "id": 37933,
+    "name": "1.8 MT",
+    "cc": 1798,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 904,
+    "name": "2.4 AT",
+    "cc": 2354,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 9096,
+    "name": "2.4 VTI L MT",
+    "cc": 2354,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 911,
+    "name": "Elegance MT",
+    "cc": 2354,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8777,
+    "name": "V6 Inspire",
+    "cc": 3471,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 903,
+    "name": "3.5 V6",
+    "cc": 3471,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8956,
+    "name": "VTi-L MT",
+    "cc": 2354,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8776,
+    "name": "Inspire AT",
+    "cc": 2354,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8775,
+    "name": "Inspire MT",
+    "cc": 2354,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7136,
+    "name": "Vti-L AT",
+    "cc": 2354,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 910,
+    "name": "2.4 MT",
+    "cc": 2354,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 908,
+    "name": "Elegance AT",
+    "cc": 2354,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 909,
+    "name": "V6 AT",
+    "cc": 2997,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 906,
+    "name": "2.3 VTI AT",
+    "cc": 2254,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 913,
+    "name": "2.3 VTI MT",
+    "cc": 2254,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7511,
+    "name": "1.6 AT",
+    "cc": 1596,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 15020,
+    "name": "Hybrid",
+    "cc": 1993,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 9097,
+    "name": "1.8 MT",
+    "cc": 1850,
+    "fuel_type": "PETROL"
+    }
+    ],
+    "is_popular": true
+    },
+    "90": {
+    "id": 90,
+    "name": "Brio",
+    "variants": [
+    {
+    "id": 7515,
+    "name": "1.2 VX MT",
+    "cc": 1198,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 915,
+    "name": "1.2 VX AT",
+    "cc": 1198,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 916,
+    "name": "1.2 V AT",
+    "cc": 1198,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 919,
+    "name": "1.2 V MT",
+    "cc": 1198,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 1712,
+    "name": "1.2 S Option MT",
+    "cc": 1198,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7101,
+    "name": "1.2 EX MT",
+    "cc": 1198,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 918,
+    "name": "1.2 S MT",
+    "cc": 1198,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7514,
+    "name": "1.2 S Option AT",
+    "cc": 1198,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 917,
+    "name": "1.2 E MT",
+    "cc": 1198,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 9348,
+    "name": "Exclusive Edition",
+    "cc": 1198,
+    "fuel_type": "PETROL"
+    }
+    ],
+    "is_popular": true,
+    "desktop_image_path": "https://media.coverfox.com/motor_product/model/desktop/honda_brio.png",
+    "mobile_image_path": "https://media.coverfox.com/motor_product/model/mobile/honda_brio.png"
+    },
+    "91": {
+    "id": 91,
+    "name": "New City",
+    "variants": [
+    {
+    "id": 37880,
+    "name": "V CVT Petrol",
+    "cc": 1498,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 37295,
+    "name": "VX CVT",
+    "cc": 1498,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 37225,
+    "name": "5th Generation V MT",
+    "cc": 1498,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 37218,
+    "name": "ZX MT",
+    "cc": 1498,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 37099,
+    "name": "1.5 S MT",
+    "cc": 1497,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 34040,
+    "name": "1.5 S CVT",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 1694,
+    "name": "1.5 SV MT",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 924,
+    "name": "1.5 V AT",
+    "cc": 1497,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 943,
+    "name": "1.5 VX AT",
+    "cc": 1497,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 932,
+    "name": "1.5 V MT",
+    "cc": 1498,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 14459,
+    "name": "ZX CVT",
+    "cc": 1497,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 931,
+    "name": "1.5 SV MT",
+    "cc": 1497,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 938,
+    "name": "1.5 VX MT",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 926,
+    "name": "1.5 E MT",
+    "cc": 1497,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 923,
+    "name": "1.5 SV AT",
+    "cc": 1497,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 6984,
+    "name": "1.5 V MT",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 935,
+    "name": "1.5 S MT",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 7530,
+    "name": "1.5 V AT Inspire",
+    "cc": 1497,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 14554,
+    "name": "ZX MT",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 7531,
+    "name": "1.5 V MT Inspire",
+    "cc": 1497,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 14456,
+    "name": "VX MT (O)",
+    "cc": 1497,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 921,
+    "name": "1.5 S AT",
+    "cc": 1497,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 933,
+    "name": "1.5 VX MT",
+    "cc": 1497,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 6041,
+    "name": "1.5 Corporate Edition",
+    "cc": 1497,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7095,
+    "name": "1.5 E MT",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 15126,
+    "name": "ZX GXi",
+    "cc": 1497,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 14664,
+    "name": "SV CVT",
+    "cc": 1497,
+    "fuel_type": "PETROL"
+    }
+    ],
+    "is_popular": true
+    },
+    "92": {
+    "id": 92,
+    "name": "City",
+    "variants": [
+    {
+    "id": 37934,
+    "name": "1.5 S AT SEDAN",
+    "cc": 1497,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 37315,
+    "name": "VX MT",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 29498,
+    "name": "V CVT I-VTEC",
+    "cc": 1497,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 16879,
+    "name": "i-VTEC V",
+    "cc": 1497,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 16865,
+    "name": "VX MT I-DTEC",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 16816,
+    "name": "1.5 i-DTEC ZX",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 15515,
+    "name": "V AT",
+    "cc": 1497,
+    "fuel_type": "INTERNAL_LPG_CNG"
+    },
+    {
+    "id": 15518,
+    "name": "S MT",
+    "cc": 1497,
+    "fuel_type": "INTERNAL_LPG_CNG"
+    },
+    {
+    "id": 16937,
+    "name": "ZX Anniversary iVTEC CVT",
+    "cc": 1497,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 942,
+    "name": "1.5 Vtec",
+    "cc": 1497,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 15594,
+    "name": "SV CVT",
+    "cc": 1497,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7002,
+    "name": "1.5 V MT",
+    "cc": 1497,
+    "fuel_type": "INTERNAL_LPG_CNG"
+    },
+    {
+    "id": 8969,
+    "name": "i-VTEC CVT VX",
+    "cc": 1497,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8938,
+    "name": "V I-DTEC",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8868,
+    "name": "V AT",
+    "cc": 1497,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 930,
+    "name": "1.5 I VTEC S MT",
+    "cc": 1497,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7517,
+    "name": "1.5 EXI AT",
+    "cc": 1493,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8864,
+    "name": "i-VTEC S AT",
+    "cc": 1497,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8936,
+    "name": "EMT",
+    "cc": 1497,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 927,
+    "name": "1.3 EXI",
+    "cc": 1343,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 925,
+    "name": "1.3 DX",
+    "cc": 1343,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 1618,
+    "name": "1.5 GXI",
+    "cc": 1497,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 928,
+    "name": "1.5 EXI",
+    "cc": 1497,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7516,
+    "name": "1.3 LXI",
+    "cc": 1343,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 14410,
+    "name": "i-VTEC VX Option",
+    "cc": 1497,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 9729,
+    "name": "I DTEC SV MT",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 9098,
+    "name": "ZXi AT",
+    "cc": 1296,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 1634,
+    "name": "1.5 I Vtech",
+    "cc": 1497,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 929,
+    "name": "LXI",
+    "cc": 1497,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 14665,
+    "name": "VX Option",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 9730,
+    "name": "1.5 I-DTEC S MT",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8849,
+    "name": "1.5 ZXI",
+    "cc": 1497,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 14881,
+    "name": "1.5 V MT",
+    "cc": 1497,
+    "fuel_type": "PETROL"
+    }
+    ],
+    "is_popular": true,
+    "desktop_image_path": "https://media.coverfox.com/motor_product/model/desktop/honda_city.png",
+    "mobile_image_path": "https://media.coverfox.com/motor_product/model/mobile/honda_city.png"
+    },
+    "93": {
+    "id": 93,
+    "name": "Civic",
+    "variants": [
+    {
+    "id": 37323,
+    "name": "ZX",
+    "cc": 1597,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 37294,
+    "name": "V CVT",
+    "cc": 1799,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 33863,
+    "name": "VX CVT",
+    "cc": 1799,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 33861,
+    "name": "ZX CVT",
+    "cc": 1799,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 946,
+    "name": "1.8 S MT",
+    "cc": 1799,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7519,
+    "name": "1.8 V MT Inspire",
+    "cc": 1799,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 955,
+    "name": "1.8 S MT Inspire",
+    "cc": 1799,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 948,
+    "name": "1.8 V AT Inspire",
+    "cc": 1799,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 960,
+    "name": "Sport",
+    "cc": 1799,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 953,
+    "name": "1.8 S MT Elegance",
+    "cc": 1799,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 957,
+    "name": "1.8 V MT",
+    "cc": 1799,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 9464,
+    "name": "Hybrid",
+    "cc": 1339,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 954,
+    "name": "1.8 V MT Elegance",
+    "cc": 1799,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 959,
+    "name": "1.8 E MT",
+    "cc": 1799,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 945,
+    "name": "1.8 S AT",
+    "cc": 1799,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 947,
+    "name": "1.8 V AT Elegance",
+    "cc": 1799,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 950,
+    "name": "1.8 V AT",
+    "cc": 1799,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 952,
+    "name": "1.5 L",
+    "cc": 1493,
+    "fuel_type": "PETROL"
+    }
+    ],
+    "is_popular": true
+    },
+    "94": {
+    "id": 94,
+    "name": "Jazz",
+    "variants": [
+    {
+    "id": 37282,
+    "name": "ZX CVT",
+    "cc": 1199,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 15018,
+    "name": "V i-DTEC Privilege",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 16920,
+    "name": "S CVT",
+    "cc": 1198,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 16894,
+    "name": "VX CVT",
+    "cc": 1199,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 14484,
+    "name": "V",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 14482,
+    "name": "SV",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 968,
+    "name": "1.2 S MT",
+    "cc": 1199,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 14480,
+    "name": "S",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 14475,
+    "name": "E",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 969,
+    "name": "VTI",
+    "cc": 1497,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 15289,
+    "name": "V CVT",
+    "cc": 1199,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 963,
+    "name": "Active",
+    "cc": 1349,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 967,
+    "name": "1.2 X",
+    "cc": 1198,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 964,
+    "name": "1.2 Base",
+    "cc": 1198,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 15019,
+    "name": "V iVTEC Privilege AT",
+    "cc": 1199,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 14476,
+    "name": "VX",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 14829,
+    "name": "V CVT Privilege Edition",
+    "cc": 1199,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8932,
+    "name": "1.2 V",
+    "cc": 1199,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 965,
+    "name": "1.2 Mode",
+    "cc": 1198,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 962,
+    "name": "1.2 Active",
+    "cc": 1198,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 14950,
+    "name": "Select Edition",
+    "cc": 1198,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 9704,
+    "name": "VX MT",
+    "cc": 1199,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 966,
+    "name": "Mode",
+    "cc": 1198,
+    "fuel_type": "PETROL"
+    }
+    ],
+    "is_popular": true
+    },
+    "149": {
+    "id": 149,
+    "name": "Amaze",
+    "variants": [
+    {
+    "id": 37228,
+    "name": "1.2 E (O)",
+    "cc": 1198,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 16891,
+    "name": "1.5 S MT (O)",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 16878,
+    "name": "1.2 S (O) MT",
+    "cc": 1198,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 16875,
+    "name": "S CVT",
+    "cc": 1199,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 16796,
+    "name": "S CVT",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 16786,
+    "name": "V CVT",
+    "cc": 1199,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 15824,
+    "name": "SV MT",
+    "cc": 1199,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 15816,
+    "name": "V CVT",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 36677,
+    "name": "VX CVT",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 1520,
+    "name": "1.2 E MT",
+    "cc": 1198,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 1517,
+    "name": "1.5 S MT",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 14653,
+    "name": "i-DTEC Privilege Edition",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 1519,
+    "name": "1.5 VX MT",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 1524,
+    "name": "1.2 VX MT",
+    "cc": 1198,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 1522,
+    "name": "1.2 S MT",
+    "cc": 1198,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 1523,
+    "name": "1.2 SX MT",
+    "cc": 1198,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 1518,
+    "name": "1.5 SX MT",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8875,
+    "name": "S Plus",
+    "cc": 1198,
+    "fuel_type": "INTERNAL_LPG_CNG"
+    },
+    {
+    "id": 7512,
+    "name": "1.2 S AT",
+    "cc": 1198,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 1516,
+    "name": "1.5 EX MT",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 1515,
+    "name": "1.5 E MT",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 7513,
+    "name": "1.2 VX AT",
+    "cc": 1198,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 1521,
+    "name": "1.2 EX MT",
+    "cc": 1198,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 14654,
+    "name": "i-VTEC Privilege Edition",
+    "cc": 1198,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 9347,
+    "name": "Anniversary Edition",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 14946,
+    "name": "V",
+    "cc": 1199,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 14830,
+    "name": "VX (O)",
+    "cc": 1198,
+    "fuel_type": "PETROL"
+    }
+    ],
+    "is_popular": true,
+    "desktop_image_path": "https://media.coverfox.com/motor_product/model/desktop/honda_amaze.png",
+    "mobile_image_path": "https://media.coverfox.com/motor_product/model/mobile/honda_amaze.png"
+    },
+    "152": {
+    "id": 152,
+    "name": "Mobilio",
+    "variants": [
+    {
+    "id": 9614,
+    "name": "RS Option",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 14542,
+    "name": "V Option i-DTEC",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 1529,
+    "name": "1.5 RS",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 1532,
+    "name": "1.5 V",
+    "cc": 1497,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 1527,
+    "name": "1.5 S",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 1528,
+    "name": "1.5 V",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 1530,
+    "name": "1.5 E",
+    "cc": 1497,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 1526,
+    "name": "1.5 E",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 1531,
+    "name": "1.5 S",
+    "cc": 1497,
+    "fuel_type": "PETROL"
+    }
+    ],
+    "is_popular": true,
+    "desktop_image_path": "https://media.coverfox.com/motor_product/model/desktop/honda_mobilio.png",
+    "mobile_image_path": "https://media.coverfox.com/motor_product/model/mobile/honda_mobilio.png"
+    },
+    "2727": {
+    "id": 2727,
+    "name": "CRV",
+    "variants": [
+    {
+    "id": 7527,
+    "name": "2.4 RVSI MT",
+    "cc": 2354,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 36824,
+    "name": "1.6 2WD AT",
+    "cc": 1597,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 17073,
+    "name": "4WD AT",
+    "cc": 1597,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 17072,
+    "name": "1.6 2WD AT",
+    "cc": 1597,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7204,
+    "name": "2.4 4WD AT",
+    "cc": 2354,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 15243,
+    "name": "2.4 AT",
+    "cc": 2354,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7528,
+    "name": "2.4 4WD MT",
+    "cc": 2354,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7523,
+    "name": "2.0 RVI MT",
+    "cc": 1997,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7522,
+    "name": "2.0 RVI AT",
+    "cc": 1995,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 1641,
+    "name": "2.0 2WD AT",
+    "cc": 1997,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 1640,
+    "name": "2.0 2WD",
+    "cc": 1997,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7526,
+    "name": "2.4 RVSI AT",
+    "cc": 2354,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7524,
+    "name": "2.4 RVI AT",
+    "cc": 2354,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7525,
+    "name": "2.4 RVI MT",
+    "cc": 2354,
+    "fuel_type": "PETROL"
+    }
+    ],
+    "is_popular": true,
+    "desktop_image_path": "https://media.coverfox.com/motor_product/model/desktop/honda_crv.png",
+    "mobile_image_path": "https://media.coverfox.com/motor_product/model/mobile/honda_crv.png"
+    },
+    "2742": {
+    "id": 2742,
+    "name": "City ZX",
+    "variants": [
+    {
+    "id": 36208,
+    "name": "G",
+    "cc": 1497,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 920,
+    "name": "Vtec",
+    "cc": 1497,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 14516,
+    "name": "1.5 GXI CVT",
+    "cc": 1497,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7518,
+    "name": "Vtec Plus",
+    "cc": 1497,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 944,
+    "name": "CVT",
+    "cc": 1497,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7139,
+    "name": "EXI",
+    "cc": 1497,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7070,
+    "name": "GXI",
+    "cc": 1497,
+    "fuel_type": "PETROL"
+    }
+    ],
+    "is_popular": true
+    },
+    "2815": {
+    "id": 2815,
+    "name": "Civic Hybrid",
+    "variants": [
+    {
+    "id": 7520,
+    "name": "1.3 i-VTEC",
+    "cc": 1300,
+    "fuel_type": "PETROL"
+    }
+    ],
+    "is_popular": null
+    },
+    "2817": {
+    "id": 2817,
+    "name": "Integra",
+    "variants": [
+    {
+    "id": 7529,
+    "name": "Standard",
+    "cc": 1500,
+    "fuel_type": "PETROL"
+    }
+    ],
+    "is_popular": null
+    },
+    "3036": {
+    "id": 3036,
+    "name": "New Jazz",
+    "variants": [
+    {
+    "id": 37288,
+    "name": "V CVT",
+    "cc": 1199,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 17102,
+    "name": "VX CVT",
+    "cc": 1199,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8840,
+    "name": "SV",
+    "cc": 1199,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8837,
+    "name": "VX",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8842,
+    "name": "S CVT",
+    "cc": 1199,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8836,
+    "name": "V",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8843,
+    "name": "VX",
+    "cc": 1199,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8835,
+    "name": "SV",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8833,
+    "name": "E",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8834,
+    "name": "S",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8841,
+    "name": "V",
+    "cc": 1199,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8838,
+    "name": "E",
+    "cc": 1199,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8839,
+    "name": "S",
+    "cc": 1199,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8844,
+    "name": "V AT",
+    "cc": 1199,
+    "fuel_type": "PETROL"
+    }
+    ],
+    "is_popular": true
+    },
+    "3098": {
+    "id": 3098,
+    "name": "BR-V",
+    "variants": [
+    {
+    "id": 9583,
+    "name": "i-DTEC V MT",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 9584,
+    "name": "i-DTEC VX MT",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 9587,
+    "name": "i-VTEC V MT",
+    "cc": 1497,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 9589,
+    "name": "i-VTEC VX MT",
+    "cc": 1497,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 9582,
+    "name": "i-DTEC S MT",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 9581,
+    "name": "i-DTEC E MT",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 9586,
+    "name": "i-VTEC S MT",
+    "cc": 1497,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 9585,
+    "name": "i-VTEC E MT",
+    "cc": 1497,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 9588,
+    "name": "i-VTEC V AT",
+    "cc": 1497,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 14839,
+    "name": "i-VTEC V CVT",
+    "cc": 1497,
+    "fuel_type": "PETROL"
+    }
+    ],
+    "is_popular": true
+    },
+    "3216": {
+    "id": 3216,
+    "name": "WRV",
+    "variants": [
+    {
+    "id": 37244,
+    "name": "SV",
+    "cc": 1199,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 37211,
+    "name": "i-DTEC V",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 17000,
+    "name": "S Alive Edition",
+    "cc": 1199,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 16999,
+    "name": "S Alive Edition",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 15323,
+    "name": "S Edge Edition",
+    "cc": 1199,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 15322,
+    "name": "S Edge Edition",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 14434,
+    "name": "I-DTEC S",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 14437,
+    "name": "i-VTEC VX",
+    "cc": 1199,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 14436,
+    "name": "i-VTEC S",
+    "cc": 1199,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 14435,
+    "name": "I-DTEC VX",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    }
+    ],
+    "is_popular": null
+    },
+    "3853": {
+    "id": 3853,
+    "name": "New Amaze",
+    "variants": [
+    {
+    "id": 36996,
+    "name": "VX CVT",
+    "cc": 1199,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 16798,
+    "name": "V CVT",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 16797,
+    "name": "VX",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 16795,
+    "name": "V",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 16794,
+    "name": "S",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 16793,
+    "name": "E",
+    "cc": 1498,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 16792,
+    "name": "V CVT",
+    "cc": 1199,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 16791,
+    "name": "VX",
+    "cc": 1199,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 16790,
+    "name": "S CVT",
+    "cc": 1199,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 16789,
+    "name": "V",
+    "cc": 1199,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 16788,
+    "name": "S",
+    "cc": 1199,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 16787,
+    "name": "E",
+    "cc": 1199,
+    "fuel_type": "PETROL"
+    }
+    ],
+    "is_popular": null
+    }
+    }
+    }

@@ -1,0 +1,1093 @@
+{
+    "success": true,
+    "errorCode": null,
+    "errorMessage": null,
+    "errorItems": [],
+    "data": {
+    "76": {
+    "id": 76,
+    "name": "Aveo",
+    "variants": [
+    {
+    "id": 36751,
+    "name": "1.4 LS",
+    "cc": 1399,
+    "fuel_type": "INTERNAL_LPG_CNG"
+    },
+    {
+    "id": 767,
+    "name": "1.4",
+    "cc": 1399,
+    "fuel_type": "INTERNAL_LPG_CNG"
+    },
+    {
+    "id": 768,
+    "name": "1.4 LS",
+    "cc": 1399,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 769,
+    "name": "1.4 LT",
+    "cc": 1399,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 770,
+    "name": "1.6 LT",
+    "cc": 1598,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8112,
+    "name": "1.6 LT Option Pack",
+    "cc": 1598,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8111,
+    "name": "1.4 E",
+    "cc": 1399,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 771,
+    "name": "1.4",
+    "cc": 1399,
+    "fuel_type": "PETROL"
+    }
+    ],
+    "is_popular": true
+    },
+    "78": {
+    "id": 78,
+    "name": "Beat",
+    "variants": [
+    {
+    "id": 14439,
+    "name": "LTZ",
+    "cc": 936,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 781,
+    "name": "LT",
+    "cc": 936,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 15217,
+    "name": "LTZ",
+    "cc": 1199,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 780,
+    "name": "LT",
+    "cc": 1199,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 6993,
+    "name": "LT",
+    "cc": 1199,
+    "fuel_type": "INTERNAL_LPG_CNG"
+    },
+    {
+    "id": 779,
+    "name": "LT Option Pack",
+    "cc": 1199,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 784,
+    "name": "TCDI",
+    "cc": 936,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8115,
+    "name": "LT Option Pack",
+    "cc": 936,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 777,
+    "name": "LS",
+    "cc": 936,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 782,
+    "name": "PS",
+    "cc": 936,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 778,
+    "name": "LS",
+    "cc": 1199,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 776,
+    "name": "LS",
+    "cc": 1199,
+    "fuel_type": "INTERNAL_LPG_CNG"
+    },
+    {
+    "id": 8116,
+    "name": "Base",
+    "cc": 1199,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 783,
+    "name": "PS",
+    "cc": 1199,
+    "fuel_type": "PETROL"
+    }
+    ],
+    "is_popular": true,
+    "desktop_image_path": "https://media.coverfox.com/motor_product/model/desktop/chevrolet_beat.png",
+    "mobile_image_path": "https://media.coverfox.com/motor_product/model/mobile/chevrolet_beat.png"
+    },
+    "79": {
+    "id": 79,
+    "name": "Cruze",
+    "variants": [
+    {
+    "id": 785,
+    "name": "LTZ AT",
+    "cc": 1998,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 789,
+    "name": "LTZ MT",
+    "cc": 1998,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 788,
+    "name": "LTZ",
+    "cc": 1991,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 787,
+    "name": "LT",
+    "cc": 1991,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 9717,
+    "name": "LT",
+    "cc": 1998,
+    "fuel_type": "DIESEL"
+    }
+    ],
+    "is_popular": true,
+    "desktop_image_path": "https://media.coverfox.com/motor_product/model/desktop/chevrolet_cruze.png",
+    "mobile_image_path": "https://media.coverfox.com/motor_product/model/mobile/chevrolet_cruze.png"
+    },
+    "80": {
+    "id": 80,
+    "name": "Optra",
+    "variants": [
+    {
+    "id": 8136,
+    "name": "Viva",
+    "cc": 1800,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8135,
+    "name": "LT NY AT",
+    "cc": 1799,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 798,
+    "name": "LS",
+    "cc": 1799,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8134,
+    "name": "LT NY",
+    "cc": 1799,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 791,
+    "name": "LT AT",
+    "cc": 1799,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 801,
+    "name": "LT",
+    "cc": 1799,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8132,
+    "name": "NY",
+    "cc": 1599,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8133,
+    "name": "LS NY",
+    "cc": 1799,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 802,
+    "name": "LT Royale",
+    "cc": 1599,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 793,
+    "name": "Elite",
+    "cc": 1599,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 6994,
+    "name": "LS",
+    "cc": 1599,
+    "fuel_type": "INTERNAL_LPG_CNG"
+    },
+    {
+    "id": 797,
+    "name": "LS NY",
+    "cc": 1599,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 808,
+    "name": "Platinum",
+    "cc": 1599,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 792,
+    "name": "Base",
+    "cc": 1599,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 794,
+    "name": "Lacetti",
+    "cc": 1800,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8997,
+    "name": "1.8",
+    "cc": 1799,
+    "fuel_type": "PETROL"
+    }
+    ],
+    "is_popular": true
+    },
+    "81": {
+    "id": 81,
+    "name": "Spark",
+    "variants": [
+    {
+    "id": 812,
+    "name": "LS",
+    "cc": 995,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 813,
+    "name": "LT",
+    "cc": 995,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8144,
+    "name": "LT Option Pack",
+    "cc": 995,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 814,
+    "name": "PS",
+    "cc": 995,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 9342,
+    "name": "CNG",
+    "cc": 995,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 6996,
+    "name": "LT",
+    "cc": 995,
+    "fuel_type": "INTERNAL_LPG_CNG"
+    },
+    {
+    "id": 6997,
+    "name": "PS",
+    "cc": 995,
+    "fuel_type": "INTERNAL_LPG_CNG"
+    },
+    {
+    "id": 811,
+    "name": "LS",
+    "cc": 995,
+    "fuel_type": "INTERNAL_LPG_CNG"
+    },
+    {
+    "id": 810,
+    "name": "Base",
+    "cc": 995,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8143,
+    "name": "E",
+    "cc": 995,
+    "fuel_type": "PETROL"
+    }
+    ],
+    "is_popular": true,
+    "desktop_image_path": "https://media.coverfox.com/motor_product/model/desktop/chevrolet_spark.png",
+    "mobile_image_path": "https://media.coverfox.com/motor_product/model/mobile/chevrolet_spark.png"
+    },
+    "151": {
+    "id": 151,
+    "name": "Tavera",
+    "variants": [
+    {
+    "id": 9028,
+    "name": "NEO SS- D1 7 Seater",
+    "cc": 2499,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 9008,
+    "name": "B2 8 Seater",
+    "cc": 2499,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 9031,
+    "name": "SS D1",
+    "cc": 2499,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 9026,
+    "name": "NEO LT- L 7 Seater",
+    "cc": 2499,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 9023,
+    "name": "LT - L2",
+    "cc": 2499,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8152,
+    "name": "NY 7 Seater",
+    "cc": 2499,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8151,
+    "name": "NY 10 Seater",
+    "cc": 2499,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8149,
+    "name": "Elite LT 10 Seater",
+    "cc": 2499,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 9027,
+    "name": "NEO LT- L 9 Seater",
+    "cc": 2499,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 9001,
+    "name": "B1 10 seats",
+    "cc": 2499,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 9020,
+    "name": "LT B3 9 Seater",
+    "cc": 2499,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 9010,
+    "name": "ELITE LT- L1 9 Seater",
+    "cc": 2499,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 1525,
+    "name": "7 Seater",
+    "cc": 2499,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8146,
+    "name": "10 Seater",
+    "cc": 2499,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8150,
+    "name": "Elite SS 8 Seater",
+    "cc": 2499,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 9024,
+    "name": "NEO LS- B4 7 captain",
+    "cc": 2499,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8147,
+    "name": "Elite LS 10 Seater",
+    "cc": 2499,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 9016,
+    "name": "LS- B3 7 Seater",
+    "cc": 2499,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 9007,
+    "name": "B2 7 Seater",
+    "cc": 2499,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 9018,
+    "name": "LT - L1 7 seater",
+    "cc": 2499,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 9014,
+    "name": "LS- B3 10 Seater",
+    "cc": 2499,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 9029,
+    "name": "NY ELITE LT L1- 9 Seater",
+    "cc": 2499,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 7063,
+    "name": "Elite LT 7 Seater",
+    "cc": 2499,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8148,
+    "name": "Elite LS 7 Seater",
+    "cc": 2499,
+    "fuel_type": "DIESEL"
+    }
+    ],
+    "is_popular": true,
+    "desktop_image_path": "https://media.coverfox.com/motor_product/model/desktop/chevrolet_tavera.png",
+    "mobile_image_path": "https://media.coverfox.com/motor_product/model/mobile/chevrolet_tavera.png"
+    },
+    "164": {
+    "id": 164,
+    "name": "Enjoy",
+    "variants": [
+    {
+    "id": 36980,
+    "name": "1.3 LTZ 8 Seater",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 37109,
+    "name": "1.4 LS 8 Seater",
+    "cc": 1399,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 34039,
+    "name": "LS 8 Seater",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8125,
+    "name": "LTZ",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 7197,
+    "name": "LT",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 1542,
+    "name": "LS 7 Seater",
+    "cc": 1399,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 1692,
+    "name": "LT",
+    "cc": 1399,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8126,
+    "name": "LTZ",
+    "cc": 1399,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 1572,
+    "name": "LS 7 Seater",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    }
+    ],
+    "is_popular": true,
+    "desktop_image_path": "https://media.coverfox.com/motor_product/model/desktop/chevrolet_enjoy.png",
+    "mobile_image_path": "https://media.coverfox.com/motor_product/model/mobile/chevrolet_enjoy.png"
+    },
+    "213": {
+    "id": 213,
+    "name": "Sail",
+    "variants": [
+    {
+    "id": 1657,
+    "name": "LS",
+    "cc": 1199,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8999,
+    "name": "LS ABS",
+    "cc": 1199,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 1656,
+    "name": "LT",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8139,
+    "name": "Base",
+    "cc": 1199,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7233,
+    "name": "PS",
+    "cc": 1199,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 1654,
+    "name": "LS",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8140,
+    "name": "Base",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 1658,
+    "name": "LT ABS",
+    "cc": 1199,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8141,
+    "name": "PS",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    }
+    ],
+    "is_popular": true,
+    "desktop_image_path": "https://media.coverfox.com/motor_product/model/desktop/chevrolet_sail.png",
+    "mobile_image_path": "https://media.coverfox.com/motor_product/model/mobile/chevrolet_sail.png"
+    },
+    "235": {
+    "id": 235,
+    "name": "Captiva",
+    "variants": [
+    {
+    "id": 8119,
+    "name": "LT",
+    "cc": 1991,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8118,
+    "name": "AWD AT",
+    "cc": 1991,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 1711,
+    "name": "2.2 LTZ AWD AT",
+    "cc": 2231,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8122,
+    "name": "Xtreme",
+    "cc": 1991,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8121,
+    "name": "LTZ AWD AT",
+    "cc": 1991,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8120,
+    "name": "LTZ",
+    "cc": 1991,
+    "fuel_type": "DIESEL"
+    }
+    ],
+    "is_popular": true,
+    "desktop_image_path": "https://media.coverfox.com/motor_product/model/desktop/chevrolet_captiva.png",
+    "mobile_image_path": "https://media.coverfox.com/motor_product/model/mobile/chevrolet_captiva.png"
+    },
+    "2708": {
+    "id": 2708,
+    "name": "Tavera Neo 3",
+    "variants": [
+    {
+    "id": 36926,
+    "name": "LT 9 STR",
+    "cc": 2499,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8162,
+    "name": "Captain",
+    "cc": 2499,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 9050,
+    "name": "LS",
+    "cc": 2000,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 9398,
+    "name": "LS 7 Seater",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 9051,
+    "name": "LT",
+    "cc": 2000,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8157,
+    "name": "Base 6 Seater",
+    "cc": 2499,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 9395,
+    "name": "6 Seater",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 9052,
+    "name": "Max",
+    "cc": 2000,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 9053,
+    "name": "Standard",
+    "cc": 2000,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8160,
+    "name": "Base 7 Seater",
+    "cc": 2499,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 9397,
+    "name": "7 Seater",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 9332,
+    "name": "LS 10 Seater",
+    "cc": 1999,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8164,
+    "name": "Max 7 Seater",
+    "cc": 2499,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8161,
+    "name": "LS 10 Seater",
+    "cc": 2499,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8159,
+    "name": "Base 10 Seater",
+    "cc": 2499,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8158,
+    "name": "LT",
+    "cc": 2499,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8163,
+    "name": "Max 10 Seater",
+    "cc": 2499,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 2444,
+    "name": "LS 7 Seater",
+    "cc": 2499,
+    "fuel_type": "DIESEL"
+    }
+    ],
+    "is_popular": true
+    },
+    "2709": {
+    "id": 2709,
+    "name": "Tavera Neo 2",
+    "variants": [
+    {
+    "id": 8153,
+    "name": "LS 7 Seater",
+    "cc": 2499,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 9049,
+    "name": "SS - D1 8 Seater",
+    "cc": 2499,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 9046,
+    "name": "LT L 7 Captain",
+    "cc": 2499,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 9048,
+    "name": "SS D1 7 Captain",
+    "cc": 2499,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8156,
+    "name": "SS 7 Seater",
+    "cc": 2499,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 9045,
+    "name": "LS B4 7 Captain",
+    "cc": 2499,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8154,
+    "name": "LT 7 Seater",
+    "cc": 2499,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8155,
+    "name": "LT 9 Seater",
+    "cc": 2499,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 1689,
+    "name": "LS 10 Seater",
+    "cc": 2499,
+    "fuel_type": "DIESEL"
+    }
+    ],
+    "is_popular": null
+    },
+    "2714": {
+    "id": 2714,
+    "name": "Optra Magnum",
+    "variants": [
+    {
+    "id": 805,
+    "name": "Max",
+    "cc": 1598,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 796,
+    "name": "LS",
+    "cc": 1598,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 799,
+    "name": "LT",
+    "cc": 1991,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 795,
+    "name": "LS",
+    "cc": 1991,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 804,
+    "name": "Max",
+    "cc": 1991,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 800,
+    "name": "LT",
+    "cc": 1598,
+    "fuel_type": "PETROL"
+    }
+    ],
+    "is_popular": true
+    },
+    "2717": {
+    "id": 2717,
+    "name": "Sail UVA",
+    "variants": [
+    {
+    "id": 7178,
+    "name": "LT",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 1575,
+    "name": "Base",
+    "cc": 1199,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 6978,
+    "name": "LT",
+    "cc": 1199,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7140,
+    "name": "LS",
+    "cc": 1199,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 1696,
+    "name": "LS",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    }
+    ],
+    "is_popular": true
+    },
+    "2722": {
+    "id": 2722,
+    "name": "Aveo UVA",
+    "variants": [
+    {
+    "id": 8114,
+    "name": "1.2 LT Option",
+    "cc": 1150,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 773,
+    "name": "1.2 LS",
+    "cc": 1150,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 775,
+    "name": "1.2 LT",
+    "cc": 1150,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8113,
+    "name": "1.2",
+    "cc": 1150,
+    "fuel_type": "PETROL"
+    }
+    ],
+    "is_popular": null
+    },
+    "2729": {
+    "id": 2729,
+    "name": "Optra SRV",
+    "variants": [
+    {
+    "id": 809,
+    "name": "Base",
+    "cc": 1598,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8137,
+    "name": "Option Pack",
+    "cc": 1598,
+    "fuel_type": "PETROL"
+    }
+    ],
+    "is_popular": null
+    },
+    "2898": {
+    "id": 2898,
+    "name": "Kalos",
+    "variants": [
+    {
+    "id": 8128,
+    "name": "Standard",
+    "cc": 1150,
+    "fuel_type": "PETROL"
+    }
+    ],
+    "is_popular": null
+    },
+    "2901": {
+    "id": 2901,
+    "name": "Pontiac",
+    "variants": [
+    {
+    "id": 8138,
+    "name": "Fire Bird",
+    "cc": 1800,
+    "fuel_type": "PETROL"
+    }
+    ],
+    "is_popular": null
+    },
+    "3054": {
+    "id": 3054,
+    "name": "Sail Sedan",
+    "variants": [
+    {
+    "id": 8998,
+    "name": "LS ABS",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 9000,
+    "name": "LT ABS",
+    "cc": 1248,
+    "fuel_type": "DIESEL"
+    }
+    ],
+    "is_popular": null,
+    "desktop_image_path": "https://media.coverfox.com/motor_product/model/desktop/chevrolet_sail-sedan.png",
+    "mobile_image_path": "https://media.coverfox.com/motor_product/model/mobile/chevrolet_sail-sedan.png"
+    },
+    "3055": {
+    "id": 3055,
+    "name": "Tavera Neo",
+    "variants": [
+    {
+    "id": 9393,
+    "name": "LT L 8 Seater",
+    "cc": 2499,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 9330,
+    "name": "LT L1 9 Seater",
+    "cc": 2499,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 9043,
+    "name": "LT L 9 Seater",
+    "cc": 2499,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 9039,
+    "name": "LT D1 7 Seater",
+    "cc": 2499,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 9041,
+    "name": "LT L 7 Seater",
+    "cc": 2499,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 9036,
+    "name": "LS B4 7 seater",
+    "cc": 2499,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 9328,
+    "name": "LT L1 7 Seater",
+    "cc": 2499,
+    "fuel_type": "DIESEL"
+    }
+    ],
+    "is_popular": null
+    }
+    }
+    }
